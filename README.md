@@ -69,15 +69,15 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 
 ### 📂 Featured Engineering Portfolio
 
-#### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Smart-Robot-Car)
+#### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car)
 * **Architecture:** 4WD platform featuring Bluetooth Teleoperation, Ultrasonic Obstacle Avoidance, and IR-based Line Tracking.
 * **Logic:** Implemented a priority-based logic engine to switch between manual and autonomous modes.
 
-#### 🔐 [RFID-Based Secure Access Control System](https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock)
+#### 🔐 [RFID-Based Secure Access Control System](https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock-System)
 * **Security:** Engineered an automated locking mechanism using **MFRC522 RFID** modules and **UID Hash Authentication**.
 * **Hardware:** Integrated servo actuators and audio-visual feedback systems for real-time status monitoring.
 
-#### 🏠 [Machine Learning Cost Prediction (House Prices)](https://github.com/BenkhiraAhmedBaderEddine1/House-Price-ML)
+#### 🏠 [Machine Learning Cost Prediction (House Prices)](https://github.com/BenkhiraAhmedBaderEddine1/house-price-prediction-linear-regression)
 * **Research:** Developed a predictive model achieving **92% Accuracy (R² = 0.920)** using Linear Regression and advanced Data Preprocessing.
 * **Impact:** Identified neighborhood income and property age as primary determinants for real estate valuation.
 
