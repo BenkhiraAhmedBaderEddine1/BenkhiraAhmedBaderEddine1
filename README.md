@@ -1,9 +1,14 @@
 # Hello, I'm Ahmed Bader Eddine BEN KHIRA 👋 
 
 I am a **Master of Science in Computer Engineering** student at the **Institute of Electrical and Electronic Engineering (IGEE)**. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
-
+--------------------
+-----------------------
+-----------------------
 ---
-
++30 Certifications
+-----------------------
+------------------------
+------------------------
 ### 🛡️ Professional Experience & Industrial Impact
 
 **CNC & Robotics Systems Operator** | *Industrial Fabrication Field* (2023 – 2024)
@@ -18,20 +23,35 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 ---
 
 ### 🛠️ Technical Stack & Certifications
+## 🛠️ Technical Stack & Certifications
 
-**Languages & Systems**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-blue) ![Assembly](https://img.shields.io/badge/Assembly-grey) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Languages & Systems** <br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=mathworks&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge) ![Assembly](https://img.shields.io/badge/Assembly-6E6E6E?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**AI & Robotics (Certified)**
-* **Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV (Computer Vision).
-* **Automation:** **Siemens PLC (S7-1200)**, TIA Portal, HMI Design.
-* **Embedded Platforms:** Arduino (Uno/Mega), ESP32, FPGA.
-* **Hardware Design:** **SolidWorks**, KiCad (PCB Design), AutoCAD, Proteus.
+**Artificial Intelligence**
+* **Core Domains:** Machine Learning, Deep Learning, Computer Vision, Data Analysis.
 
-**Networking**
-* **Cisco Certified:** CCNA (Routing & Switching, Network Security).
+**Industrial Automation & Embedded Systems**
+* **Automation:** Siemens PLC (S7-1200), TIA Portal, HMI Programming.
+* **Embedded Platforms:** Arduino, ESP32, FPGA.
 
----
+**Software, Systems & Networking**
+* **Web Development:** HTML/CSS.
+* **Operating Systems:** Linux (Ubuntu), Windows.
+* **Networking:** Computer Networking (CCNA).
+
+**Engineering & Design**
+* **Simulation & Analysis:** MATLAB & Simulink.
+* **Hardware & CAD:** SolidWorks, AutoCAD, AutoDesk, CorelDRAW, SheetCAM, KiCad.
+
+**Mechanical, Fabrication & Manufacturing**
+* **Fabrication & Operations:** Manual Metal Arc Welding (MMAW), CNC Plasma Cutting & Operations, CAD/CAM Design.
+
+**Automotive Troubleshooting**
+* **Diagnostics:** Electrical & Mechanical Diagnostics.
+
+**Productivity Tools**
+* **Office Suite:** Microsoft Excel, Microsoft Word, Microsoft PowerPoint.
 
 ### 📂 Featured Engineering Portfolio
 
@@ -50,6 +70,11 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 #### ⚡ [Full-Wave Bridge Rectifier PCB Design](https://github.com/BenkhiraAhmedBaderEddine1/Power-Electronics-PCB)
 * **Design:** Complete lifecycle of a power electronics project from theoretical simulation to **PCB Implementation with R-L Load**.
 
+
+#### 📊 Epidemic Simulation (SIR Model in MATLAB)
+Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
+
+Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation to assess parameter sensitivity and public health impact.
 ---
 
 ### 📊 Engineering Statistics
