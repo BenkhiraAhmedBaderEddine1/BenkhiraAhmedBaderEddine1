@@ -19,7 +19,21 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 **Automotive Electronic & Diagnostic Technician** | *Certified Specialist* (2024 – Present)
 * **ECU Architecture:** Performing advanced diagnostics on automotive **Electronic Control Units (ECUs)** and sensor networks using professional-grade scanners.
 * **Embedded Troubleshooting:** Diagnosing and repairing intricate electrical-mechanical failures in modern vehicular systems.
+#### 📡 Telecommunications & Fiber Optics Field Internship
+**Entity:** Algérie Télécom | **Duration:** March 2026 – April 2026 | **Location:** Medea, Algeria
 
+* **FTTH & GPON Architecture:** Explored the deployment of **Fiber-to-the-Home** technology and the integration of **Gigabit Passive Optical Networks**.
+* **Network Infrastructure:** Gained hands-on insight into **Optical Distribution Frames (ODF)**, patch panel organization, and high-density rack management.
+* **Physical Layer Maintenance:** Observed professional standards in **fiber optic splicing**, cable management, and signal routing within central office environments.
+* **System Reliability:** Studied the redundant power systems and cooling infrastructures required to maintain 24/7 network uptime.
+
+#### 🏗️ Manual Metal Arc Welding (MMAW) Specialist
+**Field:** Industrial Fabrication | **Duration:** 2023 – Present | **Location:** Medea, Ksar El Boukhari
+
+* **Hardware Integrity:** Expert application of **Manual Metal Arc Welding (MMAW)** and structural assembly techniques to ensure mechanical durability.
+* **Technical Design:** Proficient in **Technical Drawing Interpretation**, translating complex blueprints into physical structural components.
+* **Structural Assembly:** Managing the fit-up and alignment of heavy-duty industrial frames and mechanical parts.
+  
 ---
 
 ### 🛠️ Technical Stack & Certifications
