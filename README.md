@@ -71,7 +71,7 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 * **Design:** Complete lifecycle of a power electronics project from theoretical simulation to **PCB Implementation with R-L Load**.
 
 
-#### 📊 Epidemic Simulation (SIR Model in MATLAB)
+#### 📊 Epidemic Simulation (SIR Model in MATLAB) (https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB)
 Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
 
 Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation to assess parameter sensitivity and public health impact.
