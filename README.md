@@ -5,7 +5,7 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 -----------------------
 -----------------------
 ---
-+30 Certifications
++50 Certifications ( +35 international certification)
 -----------------------
 ------------------------
 ------------------------
