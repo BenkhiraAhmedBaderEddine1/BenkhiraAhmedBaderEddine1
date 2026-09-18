@@ -3,7 +3,21 @@
 I am a **Master of Science in Computer Engineering** student at the **Institute of Electrical and Electronic Engineering (IGEE)**. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
 --------------------
 -----------------------
-full time study i didnt work before but just training 
+  about my university 
+full time studying university
+Institute of Electrical and Electronic Engineering (IGEE, formerly INELEC) at the University of Boumerdes, 
+
+Detailed Syllabus by Subject 
+
+https://igee.univ-boumerdes.dz/LMD/Program/2022/ProgrammeLicenceAcademiqueElectronique22.pdf
+
+
+
+the standard academic timing study / class session schedule follows a specific structured system
+
+https://igee.univ-boumerdes.dz/EmploiTemps.html
+
+
 -----------------------
 ---
 +50 Certifications 
