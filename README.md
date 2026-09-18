@@ -5,11 +5,11 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 -----------------------
 -----------------------
 ---
-+50 Certifications ( +35 international certification)
++50 Certifications 
 -----------------------
 ------------------------
 ------------------------
-### 🛡️ Professional Experience & Industrial Impact
+### 🛡️ Professional Experience ( training and internships not payment work or job )  & Industrial Impact
 
 **CNC & Robotics Systems Operator** | *Industrial Fabrication Field* (2023 – 2024)
 * **Digital Manufacturing:** Managed the end-to-end CAD/CAM pipeline, designing complex vectors in **CorelDRAW** and generating optimized **G-code** via **SheetCam**.
