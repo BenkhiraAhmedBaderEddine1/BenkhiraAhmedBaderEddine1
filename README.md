@@ -62,6 +62,18 @@ THE STANDARD ACADEMIC TIMING STUDY / CLASS SESSION SCHEDULE FOLLOWS A SPECIFIC S
 https://igee.univ-boumerdes.dz/EmploiTemps.html
 
 𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+LOCATION  
+
+https://maps.app.goo.gl/rWajR9QnNfgcosPr9
+
+𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+WEBSITE
+
+https://igee.univ-boumerdes.dz/Presentation.html
+
+𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+
+
 -----------------------
 ---
 +50 Certifications 
