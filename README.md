@@ -3,27 +3,65 @@
 I am a **Master of Science in Computer Engineering** student at the **Institute of Electrical and Electronic Engineering (IGEE)**. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
 --------------------
 -----------------------
-  about my university
 
+
+  about my university
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+🎓 What exactly is IGEE?
+
+IGEE = Institut de Génie Électrique et Électronique
+English: Institute of Electrical and Electronic Engineering
+Former name: INELEC — Institut National d'Électronique et d'Électricité
+
+It is located on Boulevard de l'Indépendance, Boumerdès 35000, Algeria and is part of Université M'Hamed Bougara de Boumerdès (UMBB).
+
+🏛️ Why "ex-INELEC"?
+
+INELEC was created in 1976 with the objective of providing strong engineering education in electrical and electronic engineering, with significant inspiration from the American higher-education system. Several American universities were involved in supporting its creation.
+
+In 1998, when UMBB was created through the regrouping of several national institutes, INELEC became part of the university structure. It later became a department and then, in 2010, was promoted to an independent institute under UMBB and adopted the LMD system.
+
+So when you see:
+
+IGEE ex-INELEC
+
+it essentially means the current IGEE, historically known as INELEC.
+
+⚡ Main academic structure
+
+The institute currently has three principal departments:
+
+Basic Education / Enseignement de Base
+Electronics / Électronique
+Automatic Control & Electrical Engineering / Automatique et Électrotechnique
+
+The institute's official documentation states that its teaching language is English.
+
+It offers a Bachelor's/Licence program in Electrical Engineering and Electronics, as well as Master's programs including areas such as Telecommunications, Computer Engineering, Control, and Power Engineering.
+
+
+𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 
   
-full time studying university
+FULL TIME STUDYING UNIVERSITY 
 
 
+
+𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃🃜🃚🃖🃁🂭🂺
 
 Institute of Electrical and Electronic Engineering (IGEE, formerly INELEC) at the University of Boumerdes, 
 
-Detailed Syllabus by Subject 
+DETAILED SYLLABUS BY SUBJECT 
 
 https://igee.univ-boumerdes.dz/LMD/Program/2022/ProgrammeLicenceAcademiqueElectronique22.pdf
 
+𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃 🗿
 
-
-the standard academic timing study / class session schedule follows a specific structured system
+THE STANDARD ACADEMIC TIMING STUDY / CLASS SESSION SCHEDULE FOLLOWS A SPECIFIC STRUCTURED SYSTEM
 
 https://igee.univ-boumerdes.dz/EmploiTemps.html
 
-
+𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 -----------------------
 ---
 +50 Certifications 
