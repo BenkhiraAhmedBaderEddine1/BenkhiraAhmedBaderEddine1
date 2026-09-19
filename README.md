@@ -70,16 +70,16 @@ https://igee.univ-boumerdes.dz/EmploiTemps.html
 ------------------------
 ### 🛡️ Professional Experience ( training and internships not payment work or job )  & Industrial Impact
 
-**CNC & Robotics Systems Operator** | *Industrial Fabrication Field* (2023 – 2024)
+**CNC & Robotics Systems Operator** | *Industrial Fabrication Field* (2023 – 2024 intership** / one year training and learning ) 
 * **Digital Manufacturing:** Managed the end-to-end CAD/CAM pipeline, designing complex vectors in **CorelDRAW** and generating optimized **G-code** via **SheetCam**.
 * **Automated Production:** Programmed and operated **CNC Plasma cutting** and robotic engraving systems.
 * **Hardware Integrity:** Applied **Manual Metal Arc Welding (MMAW)** and structural assembly techniques to ensure mechanical durability in robotic frames.
 
-**Automotive Electronic & Diagnostic Technician** | *Certified Specialist* (2024 – Present)
+**Automotive Electronic & Diagnostic Technician** | *Certified Specialist* (2024 – Present)  ( application and theoretical )
 * **ECU Architecture:** Performing advanced diagnostics on automotive **Electronic Control Units (ECUs)** and sensor networks using professional-grade scanners.
 * **Embedded Troubleshooting:** Diagnosing and repairing intricate electrical-mechanical failures in modern vehicular systems.
 #### 📡 Telecommunications & Fiber Optics Field Internship
-**Entity:** Algérie Télécom | **Duration:** March 2026 – April 2026 | **Location:** Medea, Algeria
+**Entity:** Algérie Télécom | **Duration:** March 2026 – April 2026 | **Location:** ksar el boukhari,Medea, Algeria
 
 * **FTTH & GPON Architecture:** Explored the deployment of **Fiber-to-the-Home** technology and the integration of **Gigabit Passive Optical Networks**.
 * **Network Infrastructure:** Gained hands-on insight into **Optical Distribution Frames (ODF)**, patch panel organization, and high-density rack management.
