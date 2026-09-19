@@ -87,7 +87,7 @@ https://igee.univ-boumerdes.dz/EmploiTemps.html
 * **System Reliability:** Studied the redundant power systems and cooling infrastructures required to maintain 24/7 network uptime.
 
 #### 🏗️ Manual Metal Arc Welding (MMAW) Specialist
-**Field:** Industrial Fabrication | **Duration:** 2023 – Present | **Location:** Medea, Ksar El Boukhari
+**Field:** Industrial Fabrication | **Duration:** 2023 – Present  ( still training  ) | **Location:** Medea, Ksar El Boukhari
 
 * **Hardware Integrity:** Expert application of **Manual Metal Arc Welding (MMAW)** and structural assembly techniques to ensure mechanical durability.
 * **Technical Design:** Proficient in **Technical Drawing Interpretation**, translating complex blueprints into physical structural components.
