@@ -1,4 +1,4 @@
-# Hello, I'm pedrooo👋 
+# Hello, I'm pedroo👋 
 
 I am a **Master of Science in Computer Engineering** student at the **Institute of Electrical and Electronic Engineering (IGEE)**. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
 -----------------------------------------------------------------------------------------
@@ -160,13 +160,13 @@ https://igee.univ-boumerdes.dz/Presentation.html
 Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
 
 Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation to assess parameter sensitivity and public health impact.
--------------------------------------------------
+-----------------------------------------------------------------------
 
 ### 📊 Engineering Statistics
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkhiraAhmedBaderEddine1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenkhiraAhmedBaderEddine1&layout=compact&theme=tokyonight)
 
--------------------------------------------------
+-----------------------------------------------------------------------
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AhmedBaderEddineBenkhira) 
