@@ -84,7 +84,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 +50 Certifications 
 ----------------------------------------------
 -----------------------------------------------
-------------------------
+-----------------------------------------------
 ### 🛡️ Professional Experience ( training and internships not payment work or job )  & Industrial Impact
 
 **CNC & Robotics Systems Operator** | *Industrial Fabrication Field* (2023 – 2024 intership** / one year training and learning ) 
