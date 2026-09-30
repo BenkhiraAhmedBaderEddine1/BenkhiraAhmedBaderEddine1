@@ -165,13 +165,13 @@ https://igee.univ-boumerdes.dz/Presentation.html
 Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
 
 Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation to assess parameter sensitivity and public health impact.
------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 Engineering Statistics
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkhiraAhmedBaderEddine1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenkhiraAhmedBaderEddine1&layout=compact&theme=tokyonight)
 
------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AhmedBaderEddineBenkhira) 
