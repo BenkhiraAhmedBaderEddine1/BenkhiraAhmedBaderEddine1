@@ -19,9 +19,8 @@ I am a **Master of Science in Computer Engineering** student at the **Institute 
 
 🎓 What exactly is IGEE?
 
-IGEE = Institut de Génie Électrique et Électronique
-English: Institute of Electrical and Electronic Engineering
-Former name: INELEC — Institut National d'Électronique et d'Électricité
+IGEE = Institute of Electrical and Electronic Engineering. 
+Former name: INELEC — National Institute of Electronics and Electricity.
 
 It is located on Boulevard de l'Indépendance, Boumerdès 35000, Algeria and is part of Université M'Hamed Bougara de Boumerdès (UMBB).
 
