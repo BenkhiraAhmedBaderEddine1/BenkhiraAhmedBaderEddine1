@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Bädr+Eddïne!+👋;Embedded+Systems+Engineer+⚙️;IoT+%26+Low-Level+Programming+🔌;Robotics+%26+Cyber-Physical+Systems+🤖;AI+%26+Machine+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Bädr+Eddïne!+👋;Embedded+Systems+Engineer+⚙️;IoT+%26+Low-Level+Programming+🔌;Robotics+%26+Cyber-Physical+Systems+🤖;AI+%26+Machine+Learning+🚀" />
 </p>
-
 
 # Hello, I'm pedroo👋 
 
