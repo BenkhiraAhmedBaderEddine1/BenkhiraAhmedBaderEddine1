@@ -183,6 +183,19 @@ https://igee.univ-boumerdes.dz/Presentation.html
 Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
 
 Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation to assess parameter sensitivity and public health impact.
+
+
+### 🛡️ [SENTINEL-X — Evidence-Grounded Autonomous Cyber Incident Reconstruction and Investigation Agent](https://github.com/BenkhiraAhmedBaderEddine1/-SENTINEL-X)
+
+- **Cybersecurity & AI:** Autonomous agent designed for evidence-grounded cyber incident reconstruction and investigation.
+- **Investigation:** Correlates digital evidence and security events to reconstruct incident timelines and support forensic analysis.
+
+### 🤖 [RAVEN-X — Self-Verifying & Self-Healing Cyber-Physical Robot](https://github.com/BenkhiraAhmedBaderEddine1/RAVEN-X-Self-Verifying-Self-Healing-Cyber-Physical-Robot-)
+
+- **Robotics & Embedded AI:** Cyber-physical mobile robot designed for self-verification, self-diagnosis, and bounded self-healing.
+- **Architecture:** Cross-layer physical consistency analysis combining sensors, actuators, power, communication, and system-state information.
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 Engineering Statistics
