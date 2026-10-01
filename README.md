@@ -140,31 +140,32 @@ https://igee.univ-boumerdes.dz/Presentation.html
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-**Artificial Intelligence**
+# 🧠 Technical Expertise
 
-* **Core Domains:** Machine Learning, Deep Learning, Computer Vision, Data Analysis.
+### 🤖 Artificial Intelligence
+> **Core Domains:** Machine Learning · Deep Learning · Computer Vision · Data Analysis
 
-**Industrial Automation & Embedded Systems**
-* **Automation:** Siemens PLC (S7-1200), TIA Portal, HMI Programming.
-* **Embedded Platforms:** Arduino, ESP32, FPGA.
+### 🏭 Industrial Automation & Embedded Systems
+> **Automation:** Siemens PLC (S7-1200) · TIA Portal · HMI Programming  
+> **Embedded Platforms:** Arduino · ESP32 · FPGA
 
-**Software, Systems & Networking**
-* **Web Development:** HTML/CSS.
-* **Operating Systems:** Linux (Ubuntu), Windows.
-* **Networking:** Computer Networking (CCNA).
+### 💻 Software, Systems & Networking
+> **Web Development:** HTML · CSS  
+> **Operating Systems:** Linux (Ubuntu) · Windows  
+> **Networking:** Computer Networking · CCNA
 
-**Engineering & Design**
-* **Simulation & Analysis:** MATLAB & Simulink.
-* **Hardware & CAD:** SolidWorks, AutoCAD, AutoDesk, CorelDRAW, SheetCAM, KiCad.
+### ⚙️ Engineering & Design
+> **Simulation & Analysis:** MATLAB · Simulink  
+> **Hardware & CAD:** SolidWorks · AutoCAD · Autodesk · CorelDRAW · SheetCAM · KiCad
 
-**Mechanical, Fabrication & Manufacturing**
-* **Fabrication & Operations:** Manual Metal Arc Welding (MMAW), CNC Plasma Cutting & Operations, CAD/CAM Design.
+### 🔨 Mechanical, Fabrication & Manufacturing
+> **Fabrication & Operations:** MMAW Welding · CNC Plasma Cutting & Operations · CAD/CAM Design
 
-**Automotive Troubleshooting**
-* **Diagnostics:** Electrical & Mechanical Diagnostics.
+### 🚗 Automotive Troubleshooting
+> **Diagnostics:** Electrical Diagnostics · Mechanical Diagnostics
 
-**Productivity Tools**
-* **Office Suite:** Microsoft Excel, Microsoft Word, Microsoft PowerPoint.
+### 📈 Productivity Tools
+> **Office Suite:** Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 
 ### 📂 Featured Engineering Portfolio
 
