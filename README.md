@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Bädr+Eddïne!+👋;Embedded+Systems+Engineer+⚙️;IoT+%26+Low-Level+Programming+🔌;Robotics+%26+Cyber-Physical+Systems+🤖;AI+%26+Machine+Learning+🚀" />
 </p>
-
 # Hello, I'm pedroo👋 
 
 I am a **Master of Science in Computer Engineering** student at the **Institute of Electrical and Electronic Engineering (IGEE)**. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
