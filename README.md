@@ -168,7 +168,6 @@ https://igee.univ-boumerdes.dz/Presentation.html
 ---
 
 ### 🛠️ Technical Stack & Certifications
-## 🛠️ Technical Stack & Certifications
 
 **Languages & Systems** <br>
 
