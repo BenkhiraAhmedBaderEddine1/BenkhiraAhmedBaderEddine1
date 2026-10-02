@@ -4,7 +4,7 @@
 </p>
 
 
-# Hello, I'm pedroo👋 
+# Hello, I'm pedro👋 
 
 I am a **Master of Science in Computer Engineering** student at the **Institute of Electrical and Electronic Engineering (IGEE)**. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
