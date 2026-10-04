@@ -230,7 +230,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 ### 📈 Productivity Tools
 > **Office Suite:** Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 
-### 📂 Featured Engineering Portfolio
+### 📂 Featured Engineering Portfolio or Projects 
 
 #### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car)
 * **Architecture:** 4WD platform featuring Bluetooth Teleoperation, Ultrasonic Obstacle Avoidance, and IR-based Line Tracking.
@@ -264,6 +264,12 @@ Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation 
 - **Robotics & Embedded AI:** Cyber-physical mobile robot designed for self-verification, self-diagnosis, and bounded self-healing.
 - **Architecture:** Cross-layer physical consistency analysis combining sensors, actuators, power, communication, and system-state information.
 
+  
+### 🧬 [PHYSIOPT-X — Physics-Aware Self-Verifying Optimization and Control Framework for Autonomous Cyber-Physical Systems](https://github.com/BenkhiraAhmedBaderEddine1/-PHYSIOPT-X)
+
+- **Optimization & Control:** Physics-aware framework combining optimization, control theory, and autonomous decision-making for cyber-physical systems.
+- **Self-Verification:** Continuously evaluates system behavior against physical and mathematical consistency constraints to detect abnormal or inconsistent states.
+- **Autonomous Systems:** Designed to support reliable optimization, adaptive control, anomaly detection, and decision-making in complex autonomous cyber-physical environments.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
