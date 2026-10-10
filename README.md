@@ -233,20 +233,35 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 ### 📂 Featured Engineering Portfolio or Projects 
 
+
 #### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car)
 * **Architecture:** 4WD platform featuring Bluetooth Teleoperation, Ultrasonic Obstacle Avoidance, and IR-based Line Tracking.
 * **Logic:** Implemented a priority-based logic engine to switch between manual and autonomous modes.
+
+
 
 #### 🔐 [RFID-Based Secure Access Control System](https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock-System)
 * **Security:** Engineered an automated locking mechanism using **MFRC522 RFID** modules and **UID Hash Authentication**.
 * **Hardware:** Integrated servo actuators and audio-visual feedback systems for real-time status monitoring.
 
+
+
 #### 🏠 [Machine Learning Cost Prediction (House Prices)](https://github.com/BenkhiraAhmedBaderEddine1/house-price-prediction-linear-regression)
 * **Research:** Developed a predictive model achieving **92% Accuracy (R² = 0.920)** using Linear Regression and advanced Data Preprocessing.
 * **Impact:** Identified neighborhood income and property age as primary determinants for real estate valuation.
 
+
 #### ⚡ [Full-Wave Bridge Rectifier PCB Design](https://github.com/BenkhiraAhmedBaderEddine1/Power-Electronics-PCB)
 * **Design:** Complete lifecycle of a power electronics project from theoretical simulation to **PCB Implementation with R-L Load**.
+
+  
+
+#### ⚖️ [Two-Wheeled Self-Balancing Robot Using Arduino](https://github.com/BenkhiraAhmedBaderEddine1/A-two-wheeled-self-balancing-robot-with-an-Arduino)
+
+- **Robotics & Embedded Systems:** Designed a two-wheeled self-balancing robot based on the inverted pendulum principle, using Arduino for real-time sensing and motor control.
+- **Control Engineering:** Implemented a PID-based feedback control strategy to generate corrective motor commands and maintain the robot's upright position.
+- **Sensor Fusion:** Integrated the MPU6050 accelerometer and gyroscope with a complementary filter to estimate the robot's tilt angle.
+- **System Integration:** Combined embedded C++ programming, motor driver control, PWM actuation, sensor calibration, and controller tuning to develop a practical self-balancing robotic platform.
 
 
 #### 📊 Epidemic Simulation (SIR Model in MATLAB) (https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB)
@@ -260,12 +275,13 @@ Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation 
 - **Cybersecurity & AI:** Autonomous agent designed for evidence-grounded cyber incident reconstruction and investigation.
 - **Investigation:** Correlates digital evidence and security events to reconstruct incident timelines and support forensic analysis.
 
+
 ### 🤖 [RAVEN-X — Self-Verifying & Self-Healing Cyber-Physical Robot](https://github.com/BenkhiraAhmedBaderEddine1/RAVEN-X-Self-Verifying-Self-Healing-Cyber-Physical-Robot-)
 
 - **Robotics & Embedded AI:** Cyber-physical mobile robot designed for self-verification, self-diagnosis, and bounded self-healing.
 - **Architecture:** Cross-layer physical consistency analysis combining sensors, actuators, power, communication, and system-state information.
 
-  
+
 ### 🧬 [PHYSIOPT-X — Physics-Aware Self-Verifying Optimization and Control Framework for Autonomous Cyber-Physical Systems](https://github.com/BenkhiraAhmedBaderEddine1/-PHYSIOPT-X)
 
 - **Optimization & Control:** Physics-aware framework combining optimization, control theory, and autonomous decision-making for cyber-physical systems.
