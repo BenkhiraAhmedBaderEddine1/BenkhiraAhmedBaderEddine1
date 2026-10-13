@@ -229,7 +229,25 @@ My academic journey inspires me to explore the connection between theory and rea
 
 
 
-## 🛡️ PROFESSIONAL EXPERIENCE & INDUSTRIAL IMPACT
+## 🛡️ PROFESSIONAL EXPERIENCE & INDUSTRIAL IMPACT [ training and internships not job /work ]
+
+
+
+
+꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
+
+➤ 2023–2024 --------- → a year of training [practice -- read books as much i can --- courses and trying to apply] 
+➤ [2023 / 2024 –Present] --------- → a year of training [STILL practice -- STILL read books as much i can --- STILL WATCHING  courses and trying to apply] 
+
+
+꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050816,45:00F5FF,100:7B2CFF&text=INDUSTRIAL%20EXPERIENCE&fontColor=FFFFFF&fontSize=32&fontAlignY=50&animation=twinkling&stroke=00F5FF&strokeWidth=1" width="100%" alt="Industrial Experience Banner"/>
