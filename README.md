@@ -232,19 +232,32 @@ https://igee.univ-boumerdes.dz/Presentation.html
 ### 📈 Productivity Tools
 > **Office Suite:** Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 
-## 🚀 Featured Engineering Portfolio
+<!-- ═══════ ELITE ENGINEERING PROJECTS ═══════ -->
 
 <div align="center">
 
-# 💻 PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:172554,75:4c1d95,100:0891b2&height=180&section=header&text=ELITE%20PROJECTS&fontSize=48&fontColor=00F5FF&fontAlignY=38&animation=twinkling&desc=ENGINEERING%20%7C%20AI%20%7C%20ROBOTICS&descSize=15&descAlignY=62" width="100%" alt="Elite Engineering Projects"/>
 
-<img src="https://img.shields.io/badge/ROBOTICS-00D9FF?style=for-the-badge&logo=arduino&logoColor=black" />
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9B59FF?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ENGINEERING-FF4B8B?style=for-the-badge&logo=probot&logoColor=white" />
+<br/>
 
-*Building intelligent systems. Turning ideas into reality.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=%E2%9A%A1+PROJECTS+THAT+PUSH+LIMITS;%F0%9F%A4%96+INTELLIGENT+AUTONOMOUS+SYSTEMS;%F0%9F%A7%A0+AI+%26+MACHINE+LEARNING;%F0%9F%9B%A1%EF%B8%8F+CYBERSECURITY+INNOVATION" alt="Animated Engineering Titles"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/01-ROBOTICS-00F5FF?style=for-the-badge&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-A78BFA?style=for-the-badge&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/03-EMBEDDED_SYSTEMS-FF4ECD?style=for-the-badge&labelColor=080B16"/>
+<img src="https://img.shields.io/badge/04-CYBERSECURITY-34D399?style=for-the-badge&labelColor=080B16"/>
+
+<br/><br/>
+
+**━━━━━━━━━━━ ⟡ INNOVATE BEYOND LIMITS ⟡ ━━━━━━━━━━━**
+
+*From intelligent algorithms to autonomous cyber-physical systems.*
 
 </div>
+
+## 🚀 Featured Engineering Projects
 
 
 #### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car)
