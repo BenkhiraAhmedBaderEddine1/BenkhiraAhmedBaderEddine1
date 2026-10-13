@@ -248,7 +248,7 @@ My academic journey inspires me to explore the connection between theory and rea
 
 
 
-➤ [2023 / 2024 –Present] --------- → a year of training [STILL practice -- STILL read books as much i can --- STILL WATCHING  courses and trying to apply] 
+➤ [2023 / 2024 –Present] --------- → a year of training [STILL practice -- STILL reading a books as much i can --- STILL WATCHING  courses and trying to apply] 
 
 
 
