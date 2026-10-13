@@ -205,32 +205,159 @@ https://igee.univ-boumerdes.dz/Presentation.html
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-# 🧠 Technical Expertise
 
-### 🤖 Artificial Intelligence
-> **Core Domains:** Machine Learning · Deep Learning · Computer Vision · Data Analysis
 
-### 🏭 Industrial Automation & Embedded Systems
-> **Automation:** Siemens PLC (S7-1200) · TIA Portal · HMI Programming  
-> **Embedded Platforms:** Arduino · ESP32 · FPGA
+<!-- ═══════════ ELITE TECHNICAL ARSENAL ═══════════ -->
 
-### 💻 Software, Systems & Networking
-> **Web Development:** HTML · CSS  
-> **Operating Systems:** Linux (Ubuntu) · Windows  
-> **Networking:** Computer Networking · CCNA
+<div align="center">
 
-### ⚙️ Engineering & Design
-> **Simulation & Analysis:** MATLAB · Simulink  
-> **Hardware & CAD:** SolidWorks · AutoCAD · Autodesk · CorelDRAW · SheetCAM · KiCad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,35:0E7490,70:4C1D95,100:EA580C&height=190&section=header&text=TECHNICAL%20ARSENAL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=ENGINEERING%20%7C%20AUTOMATION%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=62" width="100%" alt="Elite Technical Arsenal"/>
 
-### 🔨 Mechanical, Fabrication & Manufacturing
-> **Fabrication & Operations:** MMAW Welding · CNC Plasma Cutting & Operations · CAD/CAM Design
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=600&color=22D3EE&center=true&vCenter=true&width=750&height=40&lines=INDUSTRIAL+AUTOMATION+%26+PLC+ENGINEERING;EMBEDDED+SYSTEMS+%26+INTELLIGENT+ROBOTICS;CNC+FABRICATION+%26+ENGINEERING+DESIGN;AI+%7C+SIMULATION+%7C+SYSTEMS+ENGINEERING" alt="Technical Expertise Animation"/>
 
-### 🚗 Automotive Troubleshooting
-> **Diagnostics:** Electrical Diagnostics · Mechanical Diagnostics
+</div>
 
-### 📈 Productivity Tools
-> **Office Suite:** Microsoft Excel · Microsoft Word · Microsoft PowerPoint
+## 🏭 01 — INDUSTRIAL AUTOMATION & CONTROL
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/SIEMENS-S7--1200-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens S7-1200"/>
+<br/><br/>
+<strong>PLC ENGINEERING</strong>
+<br/>
+<sub>Programmable Logic Controllers</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/TIA-PORTAL-2563EB?style=for-the-badge&logo=siemens&logoColor=white" alt="TIA Portal"/>
+<br/><br/>
+<strong>AUTOMATION SOFTWARE</strong>
+<br/>
+<sub>Totally Integrated Automation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/HMI-PROGRAMMING-7C3AED?style=for-the-badge" alt="HMI Programming"/>
+<br/><br/>
+<strong>OPERATOR INTERFACES</strong>
+<br/>
+<sub>Human–Machine Interface</sub>
+</td>
+</tr>
+</table>
+
+## 🔌 02 — EMBEDDED SYSTEMS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/FPGA-475569?style=for-the-badge" alt="FPGA"/>
+
+</div>
+
+## 💻 03 — SOFTWARE, OPERATING SYSTEMS & NETWORKING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Computer_Networking-0891B2?style=for-the-badge" alt="Computer Networking"/>
+<img src="https://img.shields.io/badge/CCNA-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+
+</div>
+
+## 🔥 04 — CNC FABRICATION & MANUFACTURING
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/CNC-PLASMA_CUTTING-DC2626?style=for-the-badge&logoColor=white" alt="CNC Plasma Cutting"/>
+
+### ⚡ CNC PLASMA OPERATIONS
+
+<sub>CNC Plasma Cutting & Machine Operations</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/MMAW-WELDING-B45309?style=for-the-badge" alt="MMAW Welding"/>
+
+### 🛠️ METAL FABRICATION
+
+<sub>Manual Metal Arc Welding</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/CAD%2FCAM-DESIGN-7C3AED?style=for-the-badge" alt="CAD CAM Design"/>
+
+**CAD/CAM DESIGN & MANUFACTURING WORKFLOWS**
+
+</td>
+</tr>
+</table>
+
+## 🤖 05 — ARTIFICIAL INTELLIGENCE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+
+</div>
+
+## ⚙️ 06 — ENGINEERING, SIMULATION & DESIGN
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+<img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk"/>
+<img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge" alt="CorelDRAW"/>
+<img src="https://img.shields.io/badge/SheetCAM-475569?style=for-the-badge" alt="SheetCAM"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+
+</div>
+
+## 🚗 07 — AUTOMOTIVE TROUBLESHOOTING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Electrical_Diagnostics-0891B2?style=for-the-badge" alt="Electrical Diagnostics"/>
+<img src="https://img.shields.io/badge/Mechanical_Diagnostics-475569?style=for-the-badge" alt="Mechanical Diagnostics"/>
+
+</div>
+
+## 📈 08 — PRODUCTIVITY TOOLS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,50:6D28D9,100:0891B2&height=120&section=footer&animation=twinkling" width="100%" alt="Engineering Footer"/>
+
+**⚡ ENGINEER THE FUTURE · BUILD WITH PRECISION ⚡**
+
+</div>
+
+<!-- ═══════════ END TECHNICAL ARSENAL ═══════════ -->
+
+
 
 <!-- ═══════ ELITE ENGINEERING PROJECTS ═══════ -->
 
@@ -329,26 +456,6 @@ Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#10172a"/>
-      <stop offset="100%" stop-color="#21113b"/>
-    </linearGradient>
-    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00e5ff"/>
-      <stop offset="50%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#ff5da2"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="220" rx="22" fill="url(#bg)"/>
-  <circle cx="80" cy="40" r="55" fill="#00e5ff" opacity=".08"/>
-  <circle cx="830" cy="180" r="85" fill="#ff5da2" opacity=".08"/>
-  <text x="450" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="600" fill="#d8e4ff">⚡ ENGINEERING PORTFOLIO</text>
-  <text x="450" y="137" text-anchor="middle" font-family="Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="4" fill="url(#text)">PROJECTS</text>
-  <path d="M290 160 H610" stroke="url(#text)" stroke-width="3" stroke-linecap="round"/>
-  <text x="450" y="192" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#b9c4dc">ROBOTICS • AI • EMBEDDED SYSTEMS • INNOVATION</text>
-</svg>
 
 
 
