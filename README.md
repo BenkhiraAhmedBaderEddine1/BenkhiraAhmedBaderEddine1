@@ -475,74 +475,273 @@ My academic journey inspires me to explore the connection between theory and rea
 
 </div>
 
-## 🚀 Featured Engineering Projects
+## 🚀 ENGINEERING PROJECTS & INNOVATION LAB
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050816,50:00F5FF,100:7B2CFF&text=PROJECTS%20SHOWCASE&fontColor=FFFFFF&fontSize=36&fontAlignY=50&animation=twinkling&stroke=00F5FF&strokeWidth=1" width="100%" alt="Projects Showcase Banner"/>
+</p>
 
-#### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car)
-* **Architecture:** 4WD platform featuring Bluetooth Teleoperation, Ultrasonic Obstacle Avoidance, and IR-based Line Tracking.
-* **Logic:** Implemented a priority-based logic engine to switch between manual and autonomous modes.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Engineering+Ideas+Into+Reality;Robotics+%7C+Artificial+Intelligence+%7C+Embedded+Systems;Cybersecurity+%7C+Control+Engineering+%7C+Simulation;Building+Intelligent%2C+Reliable+%26+Autonomous+Systems" alt="Project Showcase Typing Animation"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS-00F5FF?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-MACHINE_LEARNING-7B2CFF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-DIGITAL_FORENSICS-FF3CAC?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELECTRONICS-CONTROL_SYSTEMS-00C853?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</p>
 
+> **My engineering philosophy:** Design intelligent systems that do more than operate — they sense, reason, adapt, verify, and respond.  
+> This portfolio brings together practical hardware implementations, machine learning experiments, control systems, scientific simulations, and research-oriented autonomous architectures.
 
-#### 🔐 [RFID-Based Secure Access Control System](https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock-System)
-* **Security:** Engineered an automated locking mechanism using **MFRC522 RFID** modules and **UID Hash Authentication**.
-* **Hardware:** Integrated servo actuators and audio-visual feedback systems for real-time status monitoring.
+---
 
+### 🧭 PROJECT DIRECTORY
 
+| # | Project | Domain | Core Technologies |
+|:---:|---|---|---|
+| 01 | [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car) | Robotics | Arduino, Bluetooth, Ultrasonic, IR |
+| 02 | [RFID-Based Secure Access Control](https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock-System) | Embedded Security | RFID, MFRC522, Servo |
+| 03 | [House Price Prediction](https://github.com/BenkhiraAhmedBaderEddine1/house-price-prediction-linear-regression) | Machine Learning | Python, Linear Regression |
+| 04 | [Full-Wave Bridge Rectifier PCB](https://github.com/BenkhiraAhmedBaderEddine1/Power-Electronics-PCB) | Power Electronics | Rectification, R-L Load, PCB |
+| 05 | [Two-Wheeled Self-Balancing Robot](https://github.com/BenkhiraAhmedBaderEddine1/A-two-wheeled-self-balancing-robot-with-an-Arduino) | Robotics & Control | Arduino, MPU6050, PID |
+| 06 | [LIE DETECTION AI](https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main) | AI & Audio Analysis | Machine Learning, Audio Features |
+| 07 | [Epidemic Simulation — SIR Model](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB) | Mathematical Modeling | MATLAB, Differential Equations |
+| 08 | [SENTINEL-X](https://github.com/BenkhiraAhmedBaderEddine1/-SENTINEL-X) | Cybersecurity & AI | Digital Forensics, Autonomous Agents |
+| 09 | [RAVEN-X](https://github.com/BenkhiraAhmedBaderEddine1/RAVEN-X-Self-Verifying-Self-Healing-Cyber-Physical-Robot-) | Cyber-Physical Robotics | Self-Diagnosis, Fault Analysis |
+| 10 | [PHYSIOPT-X](https://github.com/BenkhiraAhmedBaderEddine1/-PHYSIOPT-X) | Optimization & Control | Physics-Aware Models, Verification |
 
-#### 🏠 [Machine Learning Cost Prediction (House Prices)](https://github.com/BenkhiraAhmedBaderEddine1/house-price-prediction-linear-regression)
-* **Research:** Developed a predictive model achieving **92% Accuracy (R² = 0.920)** using Linear Regression and advanced Data Preprocessing.
-* **Impact:** Identified neighborhood income and property age as primary determinants for real estate valuation.
+---
 
+### 🤖 01 · MULTI-MODE AUTONOMOUS SMART ROBOT CAR
 
-#### ⚡ [Full-Wave Bridge Rectifier PCB Design](https://github.com/BenkhiraAhmedBaderEddine1/Power-Electronics-PCB)
-* **Design:** Complete lifecycle of a power electronics project from theoretical simulation to **PCB Implementation with R-L Load**.
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Smart Robot Car Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-AUTONOMOUS_ROBOTICS-7B2CFF?style=flat-square"/>
+</p>
 
-  
+A versatile **4WD robotic platform** combining manual teleoperation with autonomous navigation capabilities.
 
-#### ⚖️ [Two-Wheeled Self-Balancing Robot Using Arduino](https://github.com/BenkhiraAhmedBaderEddine1/A-two-wheeled-self-balancing-robot-with-an-Arduino)
+- **Multi-Mode Architecture:** Integrates Bluetooth-based remote control, ultrasonic obstacle avoidance, and IR-based line tracking.
+- **Priority-Based Logic:** Implements a control logic engine to coordinate operating modes and manage transitions between manual and autonomous behavior.
+- **Embedded Integration:** Combines sensor inputs, motor control, and real-time decision logic in a single robotic platform.
 
-- **Robotics & Embedded Systems:** Designed a two-wheeled self-balancing robot based on the inverted pendulum principle, using Arduino for real-time sensing and motor control.
-- **Control Engineering:** Implemented a PID-based feedback control strategy to generate corrective motor commands and maintain the robot's upright position.
-- **Sensor Fusion:** Integrated the MPU6050 accelerometer and gyroscope with a complementary filter to estimate the robot's tilt angle.
-- **System Integration:** Combined embedded C++ programming, motor driver control, PWM actuation, sensor calibration, and controller tuning to develop a practical self-balancing robotic platform.
+**Focus:** Embedded Programming · Mobile Robotics · Sensor Integration · Autonomous Navigation
 
-- 
-#### 🧠  [LIE DETECTION AI — A Machine Learning-Based Voice Analysis System](https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main)
+---
 
+### 🔐 02 · RFID-BASED SECURE ACCESS CONTROL SYSTEM
 
-Artificial Intelligence & Machine Learning: Developed a voice analysis system designed to explore machine learning techniques for detecting potential deception-related patterns in speech.
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock-System">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore RFID Access Control Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-EMBEDDED_SECURITY-FF3CAC?style=flat-square"/>
+</p>
 
-Voice Analysis: Analyzes vocal characteristics and speech-related features to identify patterns that may be associated with deceptive versus truthful speech.
+An embedded access-control solution designed to automate door locking and credential-based access decisions.
 
-Predictive Modeling: Applies machine learning algorithms and audio feature extraction techniques to classify voice samples based on the model's training data.
+- **RFID Authentication:** Uses the MFRC522 RFID module to read card identifiers and validate access against configured credentials.
+- **Automated Actuation:** Controls a servo-based locking mechanism according to authentication results.
+- **Status Feedback:** Integrates audio-visual feedback to communicate system status and access decisions.
+- **Security Design:** Explores UID-based credential verification within a microcontroller-driven access-control workflow.
 
-Intelligent Decision Support: Explores AI-driven speech analysis for research in behavioral signal processing, pattern recognition, and intelligent classification systems. 
+**Focus:** Arduino · RFID · Embedded Security · Servo Control · Hardware Integration
 
+---
 
-#### 📊 Epidemic Simulation (SIR Model in MATLAB) (https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB)
-Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
+### 🏠 03 · MACHINE LEARNING COST PREDICTION — HOUSE PRICES
 
-Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation to assess parameter sensitivity and public health impact.
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/house-price-prediction-linear-regression">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore House Price Prediction Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-MACHINE_LEARNING-7B2CFF?style=flat-square"/>
+</p>
 
+A supervised learning project that estimates real-estate prices using regression and structured data preprocessing.
 
-### 🛡️ [SENTINEL-X — Evidence-Grounded Autonomous Cyber Incident Reconstruction and Investigation Agent](https://github.com/BenkhiraAhmedBaderEddine1/-SENTINEL-X)
+- **Predictive Modeling:** Implements Linear Regression to estimate house prices from property-related features.
+- **Reported Performance:** Achieved **R² = 0.920** on the evaluated dataset, as reported for this project.
+- **Data Preprocessing:** Applies data preparation techniques to support model training and evaluation.
+- **Feature Analysis:** Investigates the relationship between neighborhood income, property age, and estimated property value.
 
-- **Cybersecurity & AI:** Autonomous agent designed for evidence-grounded cyber incident reconstruction and investigation.
-- **Investigation:** Correlates digital evidence and security events to reconstruct incident timelines and support forensic analysis.
+**Focus:** Python · Machine Learning · Regression · Data Analysis · Feature Engineering
 
+---
 
-### 🤖 [RAVEN-X — Self-Verifying & Self-Healing Cyber-Physical Robot](https://github.com/BenkhiraAhmedBaderEddine1/RAVEN-X-Self-Verifying-Self-Healing-Cyber-Physical-Robot-)
+### ⚡ 04 · FULL-WAVE BRIDGE RECTIFIER — PCB DESIGN
 
-- **Robotics & Embedded AI:** Cyber-physical mobile robot designed for self-verification, self-diagnosis, and bounded self-healing.
-- **Architecture:** Cross-layer physical consistency analysis combining sensors, actuators, power, communication, and system-state information.
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/Power-Electronics-PCB">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Power Electronics PCB Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-POWER_ELECTRONICS-00C853?style=flat-square"/>
+</p>
 
+A power-electronics project covering the design workflow of a **full-wave bridge rectifier** with an R-L load.
 
-### 🧬 [PHYSIOPT-X — Physics-Aware Self-Verifying Optimization and Control Framework for Autonomous Cyber-Physical Systems](https://github.com/BenkhiraAhmedBaderEddine1/-PHYSIOPT-X)
+- **Circuit Design:** Develops the rectifier circuit and studies its electrical behavior.
+- **Simulation:** Examines circuit operation through theoretical analysis and simulation.
+- **PCB Implementation:** Extends the design workflow to printed circuit board implementation.
+- **Engineering Workflow:** Connects circuit theory, component selection, simulation, and practical hardware design.
 
-- **Optimization & Control:** Physics-aware framework combining optimization, control theory, and autonomous decision-making for cyber-physical systems.
-- **Self-Verification:** Continuously evaluates system behavior against physical and mathematical consistency constraints to detect abnormal or inconsistent states.
-- **Autonomous Systems:** Designed to support reliable optimization, adaptive control, anomaly detection, and decision-making in complex autonomous cyber-physical environments.
+**Focus:** Electrical Engineering · Power Electronics · Circuit Simulation · PCB Design
+
+---
+
+### ⚖️ 05 · TWO-WHEELED SELF-BALANCING ROBOT USING ARDUINO
+
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/A-two-wheeled-self-balancing-robot-with-an-Arduino">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Self-Balancing Robot Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-ROBOTICS_&_CONTROL-7B2CFF?style=flat-square"/>
+</p>
+
+A two-wheeled robot based on the **inverted pendulum principle**, designed to maintain its upright position through continuous sensing and feedback control.
+
+- **PID Control:** Implements a feedback-control strategy to generate corrective motor commands and stabilize the robot.
+- **Sensor Fusion:** Combines MPU6050 accelerometer and gyroscope measurements using a complementary filter to estimate tilt angle.
+- **Real-Time Actuation:** Integrates motor drivers and PWM-based motor control.
+- **System Integration:** Combines embedded C++, sensor calibration, controller tuning, and electromechanical components.
+
+**Focus:** Arduino · Embedded C++ · MPU6050 · PID Control · Sensor Fusion · PWM
+
+---
+
+### 🧠 06 · LIE DETECTION AI — MACHINE LEARNING-BASED VOICE ANALYSIS
+
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Lie Detection AI Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-AI_&_SPEECH_ANALYSIS-FF3CAC?style=flat-square"/>
+</p>
+
+A machine learning exploration of speech-related signals and vocal patterns for studying features that may correlate with deceptive versus truthful speech.
+
+- **Voice Feature Analysis:** Examines vocal characteristics and audio-derived features.
+- **Predictive Modeling:** Uses machine learning classification techniques based on the model's training data.
+- **Signal Processing:** Explores the relationship between audio feature extraction, pattern recognition, and classification.
+- **Research-Oriented Design:** Investigates AI-assisted behavioral signal analysis as an experimental decision-support concept.
+
+**Important Research Note:** Voice patterns alone cannot reliably establish whether a person is lying. Model predictions should be treated as experimental classifications, not proof of deception.
+
+**Focus:** Artificial Intelligence · Machine Learning · Audio Analysis · Feature Extraction · Classification
+
+---
+
+### 📊 07 · EPIDEMIC SIMULATION — SIR MODEL IN MATLAB
+
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore SIR Epidemic Simulation Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-MATHEMATICAL_MODELING-00C853?style=flat-square"/>
+</p>
+
+A computational study of infectious-disease dynamics using the **Susceptible–Infected–Recovered (SIR)** compartmental model.
+
+- **Mathematical Modeling:** Represents population transitions through a system of differential equations.
+- **Numerical Simulation:** Studies the evolution of susceptible, infected, and recovered populations over time.
+- **Parameter Analysis:** Investigates how model parameters influence epidemic trajectories.
+- **Vaccination Scenarios:** Evaluates vaccination strategies through simulation to explore their potential impact under the model assumptions.
+
+**Focus:** MATLAB · Differential Equations · Modeling & Simulation · Numerical Analysis
+
+---
+
+### 🛡️ 08 · SENTINEL-X — AUTONOMOUS CYBER INCIDENT INVESTIGATION
+
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/-SENTINEL-X">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore SENTINEL-X Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY_&_AI-FF3CAC?style=flat-square"/>
+</p>
+
+**SENTINEL-X** explores an evidence-grounded autonomous agent for cyber incident reconstruction and investigation.
+
+- **Evidence-Grounded Investigation:** Organizes digital evidence and security events to support incident analysis.
+- **Timeline Reconstruction:** Correlates available artifacts to help reconstruct the sequence of events.
+- **Forensic Reasoning:** Structures investigative findings around traceable evidence rather than unsupported assumptions.
+- **AI-Assisted Workflow:** Explores autonomous assistance for organizing, correlating, and interpreting incident-related information.
+
+**Focus:** Cybersecurity · Digital Forensics · AI Agents · Event Correlation · Incident Response
+
+---
+
+### 🤖 09 · RAVEN-X — SELF-VERIFYING & SELF-HEALING CYBER-PHYSICAL ROBOT
+
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/RAVEN-X-Self-Verifying-Self-Healing-Cyber-Physical-Robot-">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore RAVEN-X Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-CYBER--PHYSICAL_ROBOTICS-7B2CFF?style=flat-square"/>
+</p>
+
+**RAVEN-X** explores a cyber-physical mobile robot architecture focused on self-verification, self-diagnosis, and bounded self-healing behavior.
+
+- **Self-Verification:** Evaluates whether observed system behavior is consistent with expected operating conditions.
+- **Cross-Layer Analysis:** Connects sensor readings, actuator behavior, power status, communication, and internal system state.
+- **Fault Diagnosis:** Investigates inconsistencies that may indicate abnormal behavior or component-level faults.
+- **Bounded Self-Healing:** Explores controlled recovery responses while keeping corrective actions within defined system limits.
+
+**Focus:** Robotics · Embedded AI · Fault Diagnosis · System Reliability · Cyber-Physical Systems
+
+---
+
+### 🧬 10 · PHYSIOPT-X — PHYSICS-AWARE OPTIMIZATION & CONTROL
+
+<p>
+  <a href="https://github.com/BenkhiraAhmedBaderEddine1/-PHYSIOPT-X">
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore PHYSIOPT-X Project"/>
+  </a>
+  <img src="https://img.shields.io/badge/DOMAIN-OPTIMIZATION_&_CONTROL-00C853?style=flat-square"/>
+</p>
+
+**PHYSIOPT-X** explores a physics-aware framework for optimization, control, and autonomous decision-making in cyber-physical systems.
+
+- **Physics-Aware Optimization:** Incorporates physical and mathematical consistency constraints into system evaluation.
+- **Continuous Self-Verification:** Examines system behavior for deviations from expected physical or mathematical conditions.
+- **Anomaly Detection:** Uses detected inconsistencies as potential indicators of abnormal system states.
+- **Autonomous Decision Support:** Investigates how optimization, adaptive control, and verification can work together in complex systems.
+
+**Focus:** Optimization · Control Theory · Physics-Aware Computing · Anomaly Detection · Autonomous Systems
+
+---
+
+## 🧩 ENGINEERING DOMAINS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-ROBOTICS-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-EMBEDDED_SYSTEMS-7B2CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/03-ARTIFICIAL_INTELLIGENCE-FF3CAC?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/04-CYBERSECURITY-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/05-ELECTRICAL_ENGINEERING-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/06-CONTROL_&_OPTIMIZATION-FFD700?style=for-the-badge"/>
+</p>
+
+My projects reflect an interdisciplinary engineering approach: connecting **software, electronics, physical systems, mathematical models, and intelligent decision-making** to explore practical solutions to complex problems.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2CFF,50:00F5FF,100:050816" width="100%" alt="Neon Footer"/>
+</p>
+
+<p align="center">
+  <b>⚡ BUILD. TEST. VERIFY. OPTIMIZE. INNOVATE. ⚡</b>
+</p>
+
+<p align="center">
+  <i>Every project is another step toward building smarter and more reliable engineering systems.</i>
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
