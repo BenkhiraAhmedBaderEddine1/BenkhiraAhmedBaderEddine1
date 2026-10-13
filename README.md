@@ -15,123 +15,206 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ 
+<!-- ═══════════════════ ABOUT MY UNIVERSITY ═══════════════════ -->
 
-  about my university
+<div align="center">
 
-  
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,35:0E7490,70:4C1D95,100:DB2777&height=150&section=header&text=MY%20ACADEMIC%20JOURNEY&fontSize=34&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=ELECTRICAL%20%26%20ELECTRONIC%20ENGINEERING&descSize=13&descAlignY=68" width="100%" alt="My Academic Journey"/>
 
+<br/>
 
+<a href="https://igee.univ-boumerdes.dz/">
+  <img src="https://img.shields.io/badge/IGEE-ex--INELEC-0891B2?style=for-the-badge&logo=academia&logoColor=white" alt="IGEE ex-INELEC"/>
+</a>
+<a href="https://www.univ-boumerdes.dz/">
+  <img src="https://img.shields.io/badge/UMBB-UNIVERSITY-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UMBB University"/>
+</a>
+<a href="https://igee.univ-boumerdes.dz/En/Presentation.html">
+  <img src="https://img.shields.io/badge/ENGINEERING-EDUCATION-EA580C?style=for-the-badge" alt="Engineering Education"/>
+</a>
 
-🎓 What exactly is IGEE?
+</div>
 
-IGEE = Institute of Electrical and Electronic Engineering. 
-Former name: INELEC — National Institute of Electronics and Electricity.
+---
 
-It is located on Boulevard de l'Indépendance, Boumerdès 35000, Algeria and is part of Université M'Hamed Bougara de Boumerdès (UMBB).
+## 🎓 About My Institute
 
-🏛️ Why "ex-INELEC"?
+I am pursuing my academic journey at the **Institute of Electrical and Electronic Engineering (IGEE)**, formerly known as **INELEC**, part of the **University of M’Hamed Bougara of Boumerdès (UMBB)** in Algeria.
 
-INELEC was created in 1976 with the objective of providing strong engineering education in electrical and electronic engineering, with significant inspiration from the American higher-education system. Several American universities were involved in supporting its creation.
+IGEE is an engineering institute with a strong focus on electrical and electronic engineering, combining theoretical foundations with practical learning and an English-language academic environment.
 
-In 1998, when UMBB was created through the regrouping of several national institutes, INELEC became part of the university structure. It later became a department and then, in 2010, was promoted to an independent institute under UMBB and adopted the LMD system.
+My academic interests connect engineering fundamentals with intelligent systems, automation, embedded electronics, robotics, and artificial intelligence.
 
-So when you see:
+## 🏛️ Institute Overview
 
-IGEE ex-INELEC
+<table>
+<tr>
+<td width="35%"><b>🎓 Institute</b></td>
+<td>Institute of Electrical and Electronic Engineering (IGEE)</td>
+</tr>
+<tr>
+<td><b>📜 Former Name</b></td>
+<td>INELEC — National Institute of Electricity and Electronics</td>
+</tr>
+<tr>
+<td><b>🏛️ University</b></td>
+<td>University of M’Hamed Bougara of Boumerdès (UMBB)</td>
+</tr>
+<tr>
+<td><b>📍 Location</b></td>
+<td>Boulevard de l’Indépendance, Boumerdès 35000, Algeria</td>
+</tr>
+<tr>
+<td><b>🗣️ Language of Instruction</b></td>
+<td>English</td>
+</tr>
+<tr>
+<td><b>⚡ Academic Focus</b></td>
+<td>Electrical Engineering, Electronics, Control and Automation</td>
+</tr>
+<tr>
+<td><b>📅 Historical Roots</b></td>
+<td>INELEC dates to 1976; IGEE became an institute in 2010</td>
+</tr>
+</table>
 
-it essentially means the current IGEE, historically known as INELEC.
+## ⚡ Academic Departments
 
-⚡ Main academic structure
+<table>
+<tr>
+<td align="center" width="33%">
 
-The institute currently has three principal departments:
+### 📘 01
 
-Basic Education / Enseignement de Base
-Electronics / Électronique
-Automatic Control & Electrical Engineering / Automatique et Électrotechnique
+**Fundamental Education**
 
-The institute's official documentation states that its teaching language is English.
+<sub>Engineering foundations and core scientific studies</sub>
 
-It offers a Bachelor's/Licence program in Electrical Engineering and Electronics, as well as Master's programs including areas such as Telecommunications, Computer Engineering, Control, and Power Engineering.
+</td>
+<td align="center" width="33%">
 
+### 🔌 02
 
+**Electronics**
 
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃                                                                   
+<sub>Electronic systems, circuits and related engineering disciplines</sub>
 
+</td>
+<td align="center" width="33%">
 
-                                                                
-                                                                   
-FULL TIME STUDYING UNIVERSITY                                      
+### ⚙️ 03
 
+**Control & Electrical Engineering**
 
-                                                                   
-                                                                   
-                                                                   
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
+<sub>Automation, control systems and electrical engineering</sub>
 
+</td>
+</tr>
+</table>
 
+## 📚 Academic Programs
 
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃                                                                                                           
-                                                                                                           
-Institute of Electrical and Electronic Engineering (IGEE, formerly INELEC) at the University of Boumerdes, 
-                                                                                                           
-                                                                                                           
-DETAILED SYLLABUS BY SUBJECT                                                                               
-                                                                                                                                                                                                                      
-https://igee.univ-boumerdes.dz/LMD/Program/2022/ProgrammeLicenceAcademiqueElectronique22.pdf                                                                                                                                                                                                       
-                                                                                                           𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
-                                                                                                          
+The institute's official documentation lists the following degree pathways:
 
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
+- **Bachelor’s / Licence:** Electrical Engineering and Electronics.
+- **Master’s:** Telecommunications.
+- **Master’s:** Computer Engineering.
+- **Master’s:** Control.
+- **Master’s:** Power Engineering.
 
-                                                                                                           
-                                                                                                           
-Institute of Electrical and Electronic Engineering (IGEE, formerly INELEC) at the University of Boumerdes, 
-                                                                                                           
-DETAILED SYLLABUS BY SUBJECT                                                                               
-                                                                                                           
-https://igee.univ-boumerdes.dz/LMD/Program/2022/ProgrammeLicenceAcademiqueElectronique22.pdf               
-                                                                                                          
+<sub>Program availability and admission requirements may change. Consult the official institute website for current details.</sub>
 
-                                                                                                          
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃 
+## 🕰️ A Brief History — From INELEC to IGEE
 
+<table>
+<tr>
+<td align="center" width="20%"><b>1976</b></td>
+<td>INELEC's historical origins, associated with an Algerian–American educational cooperation initiative.</td>
+</tr>
+<tr>
+<td align="center"><b>1998</b></td>
+<td>INELEC became part of the newly established University of M’Hamed Bougara of Boumerdès as an electrical engineering department.</td>
+</tr>
+<tr>
+<td align="center"><b>2010</b></td>
+<td>The department was promoted to institute status and adopted the name IGEE.</td>
+</tr>
+</table>
 
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
-                                                                                                           
-                                                                                                           
-THE STANDARD ACADEMIC TIMING STUDY / CLASS SESSION SCHEDULE FOLLOWS A SPECIFIC STRUCTURED SYSTEM           
-                                                                                                           
-                                                                                                           
-https://igee.univ-boumerdes.dz/EmploiTemps.html                              
+Today, the name **IGEE ex-INELEC** reflects the institute's current identity and its historical legacy.
 
+## 🌐 Official Websites & Student Resources
 
-                                                                                                           
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
+<div align="center">
 
+<a href="https://igee.univ-boumerdes.dz/">
+  <img src="https://img.shields.io/badge/01-INSTITUTE%20WEBSITE-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Institute Website"/>
+</a>
 
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
-                                           
-                                                        
-                                                        
-LOCATION                                                
-                                                        
-https://maps.app.goo.gl/rWajR9QnNfgcosPr9               
+<a href="https://www.univ-boumerdes.dz/">
+  <img src="https://img.shields.io/badge/02-UNIVERSITY%20WEBSITE-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official University Website"/>
+</a>
 
-                                                        
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
+<a href="https://igee.univ-boumerdes.dz/En/Presentation.html">
+  <img src="https://img.shields.io/badge/03-INSTITUTE%20HISTORY-EA580C?style=for-the-badge" alt="Institute History"/>
+</a>
 
+<a href="https://igee.univ-boumerdes.dz/LMD/Program/2022/ProgrammeLicenceAcademiqueElectronique22.pdf">
+  <img src="https://img.shields.io/badge/04-ACADEMIC%20SYLLABUS-0F766E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Academic Syllabus PDF"/>
+</a>
 
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
+<a href="https://igee.univ-boumerdes.dz/EmploiTemps.html">
+  <img src="https://img.shields.io/badge/05-TIMETABLES-2563EB?style=for-the-badge" alt="Timetables"/>
+</a>
 
-                                                        
-WEBSITE                                                 
+<a href="https://igee.univ-boumerdes.dz/">
+  <img src="https://img.shields.io/badge/06-STUDENT%20RESOURCES-9333EA?style=for-the-badge" alt="Student Resources"/>
+</a>
 
-                                                        
-https://igee.univ-boumerdes.dz/Presentation.html        
-                                                        
-                                                        
-𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄂𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃
+<a href="https://maps.app.goo.gl/rWajR9QnNfgcosPr9">
+  <img src="https://img.shields.io/badge/07-CAMPUS%20LOCATION-DB2777?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Campus Location"/>
+</a>
+
+</div>
+
+## 📍 Campus Location
+
+<div align="center">
+
+**Institute of Electrical and Electronic Engineering (IGEE)**
+
+Boulevard de l’Indépendance, Boumerdès 35000, Algeria.
+
+<a href="https://maps.app.goo.gl/rWajR9QnNfgcosPr9">
+  <img src="https://img.shields.io/badge/OPEN%20CAMPUS%20IN%20GOOGLE%20MAPS-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Open IGEE in Google Maps"/>
+</a>
+
+</div>
+
+## 🚀 Connecting Academic Knowledge with Engineering Projects
+
+My academic journey inspires me to explore the connection between theory and real-world engineering through:
+
+- **Artificial Intelligence:** machine learning, intelligent agents and data-driven systems.
+- **Electronics & Embedded Systems:** microcontrollers, digital systems and robotics.
+- **Automation & Control:** PLCs, control strategies and intelligent automation.
+- **Engineering Simulation:** mathematical modelling, MATLAB and Simulink.
+- **Applied Research:** experimental projects, technical problem-solving and interdisciplinary engineering.
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=750&height=35&lines=LEARN+THEORY.+BUILD+SYSTEMS.+SOLVE+REAL+PROBLEMS.;ENGINEERING+KNOWLEDGE+INTO+REAL-WORLD+INNOVATION." alt="Academic Engineering Motto"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:4C1D95,100:DB2777&height=100&section=footer&animation=twinkling" width="100%" alt="Academic Footer"/>
+
+**🎓 LEARN · ENGINEER · INNOVATE**
+
+</div>
+
+<!-- ═══════════════════ END ABOUT MY UNIVERSITY ═══════════════════ -->
 
 
 ----------------------------------------------
@@ -169,41 +252,6 @@ https://igee.univ-boumerdes.dz/Presentation.html
 * **Structural Assembly:** Managing the fit-up and alignment of heavy-duty industrial frames and mechanical parts.
   
 ---
-
-### 🛠️ Technical Stack & Certifications
-
-**Languages & Systems** <br>
-
-**Languages, AI & Systems** <br>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300A4EF.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=mathworks&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge)
-![Assembly x86/x64](https://img.shields.io/badge/Assembly_x86%2Fx64-6E6E6E?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge)
-
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 
 
 
