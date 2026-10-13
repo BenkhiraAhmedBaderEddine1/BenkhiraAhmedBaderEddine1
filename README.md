@@ -207,45 +207,96 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 
 
-<!-- ═══════════ ELITE TECHNICAL ARSENAL ═══════════ -->
+ 
+<!-- ═══════════════════ ELITE TECHNICAL ARSENAL ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,35:0E7490,70:4C1D95,100:EA580C&height=190&section=header&text=TECHNICAL%20ARSENAL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=ENGINEERING%20%7C%20AUTOMATION%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=62" width="100%" alt="Elite Technical Arsenal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,30:0E7490,65:4C1D95,100:EA580C&height=200&section=header&text=TECHNICAL%20ARSENAL&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=SOFTWARE%20%7C%20ENGINEERING%20%7C%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=58" width="100%" alt="Technical Arsenal"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=600&color=22D3EE&center=true&vCenter=true&width=750&height=40&lines=INDUSTRIAL+AUTOMATION+%26+PLC+ENGINEERING;EMBEDDED+SYSTEMS+%26+INTELLIGENT+ROBOTICS;CNC+FABRICATION+%26+ENGINEERING+DESIGN;AI+%7C+SIMULATION+%7C+SYSTEMS+ENGINEERING" alt="Technical Expertise Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=650&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=PROGRAMMING+%26+SYSTEMS+ENGINEERING;AI+%7C+MACHINE+LEARNING+%7C+INTELLIGENT+AGENTS;INDUSTRIAL+AUTOMATION+%26+PLC+CONTROL;EMBEDDED+SYSTEMS+%26+ROBOTICS;CNC+MANUFACTURING+%26+ENGINEERING+DESIGN" alt="Animated Technical Expertise"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ENGINEERING-PRECISION-0891B2?style=for-the-badge" alt="Engineering Precision"/>
+<img src="https://img.shields.io/badge/INTELLIGENCE-INNOVATION-6D28D9?style=for-the-badge" alt="Intelligence Innovation"/>
+<img src="https://img.shields.io/badge/AUTOMATION-CONTROL-EA580C?style=for-the-badge" alt="Automation Control"/>
 
 </div>
 
-## 🏭 01 — INDUSTRIAL AUTOMATION & CONTROL
+---
+
+## 💻 01 — PROGRAMMING LANGUAGES & DEVELOPMENT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Assembly_x86%2Fx64-525252?style=for-the-badge" alt="Assembly x86/x64"/>
+
+<img src="https://img.shields.io/badge/VHDL-6D28D9?style=for-the-badge" alt="VHDL"/>
+
+</div>
+
+## 🧠 02 — ARTIFICIAL INTELLIGENCE & DATA SCIENCE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-6D28D9?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/AI_Agents-DB2777?style=for-the-badge" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+
+</div>
+
+## 🏭 03 — INDUSTRIAL AUTOMATION & CONTROL
 
 <table>
 <tr>
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/SIEMENS-S7--1200-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens S7-1200"/>
-<br/><br/>
-<strong>PLC ENGINEERING</strong>
-<br/>
+
+**PLC ENGINEERING**
+
 <sub>Programmable Logic Controllers</sub>
+
 </td>
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/TIA-PORTAL-2563EB?style=for-the-badge&logo=siemens&logoColor=white" alt="TIA Portal"/>
-<br/><br/>
-<strong>AUTOMATION SOFTWARE</strong>
-<br/>
+
+**AUTOMATION SOFTWARE**
+
 <sub>Totally Integrated Automation</sub>
+
 </td>
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/HMI-PROGRAMMING-7C3AED?style=for-the-badge" alt="HMI Programming"/>
-<br/><br/>
-<strong>OPERATOR INTERFACES</strong>
-<br/>
+
+**OPERATOR INTERFACES**
+
 <sub>Human–Machine Interface</sub>
+
 </td>
 </tr>
 </table>
 
-## 🔌 02 — EMBEDDED SYSTEMS
+## 🔌 04 — EMBEDDED SYSTEMS & ROBOTICS
 
 <div align="center">
 
@@ -255,28 +306,26 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 </div>
 
-## 💻 03 — SOFTWARE, OPERATING SYSTEMS & NETWORKING
+## 🌐 05 — OPERATING SYSTEMS & NETWORKING
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Linux"/>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Computer_Networking-0891B2?style=for-the-badge" alt="Computer Networking"/>
 <img src="https://img.shields.io/badge/CCNA-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
 
 </div>
 
-## 🔥 04 — CNC FABRICATION & MANUFACTURING
+## 🔥 06 — CNC FABRICATION & MANUFACTURING
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/CNC-PLASMA_CUTTING-DC2626?style=for-the-badge&logoColor=white" alt="CNC Plasma Cutting"/>
+<img src="https://img.shields.io/badge/CNC-PLASMA_CUTTING-DC2626?style=for-the-badge" alt="CNC Plasma Cutting"/>
 
-### ⚡ CNC PLASMA OPERATIONS
+**⚡ CNC PLASMA OPERATIONS**
 
 <sub>CNC Plasma Cutting & Machine Operations</sub>
 
@@ -285,7 +334,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 <img src="https://img.shields.io/badge/MMAW-WELDING-B45309?style=for-the-badge" alt="MMAW Welding"/>
 
-### 🛠️ METAL FABRICATION
+**🛠️ METAL FABRICATION**
 
 <sub>Manual Metal Arc Welding</sub>
 
@@ -294,7 +343,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://img.shields.io/badge/CAD%2FCAM-DESIGN-7C3AED?style=for-the-badge" alt="CAD CAM Design"/>
+<img src="https://img.shields.io/badge/CAD%2FCAM-DESIGN-7C3AED?style=for-the-badge" alt="CAD/CAM Design"/>
 
 **CAD/CAM DESIGN & MANUFACTURING WORKFLOWS**
 
@@ -302,18 +351,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 </tr>
 </table>
 
-## 🤖 05 — ARTIFICIAL INTELLIGENCE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep_Learning-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
-
-</div>
-
-## ⚙️ 06 — ENGINEERING, SIMULATION & DESIGN
+## ⚙️ 07 — ENGINEERING, SIMULATION & DESIGN
 
 <div align="center">
 
@@ -321,6 +359,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
 <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
 <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+
 <img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk"/>
 <img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge" alt="CorelDRAW"/>
 <img src="https://img.shields.io/badge/SheetCAM-475569?style=for-the-badge" alt="SheetCAM"/>
@@ -328,7 +367,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 </div>
 
-## 🚗 07 — AUTOMOTIVE TROUBLESHOOTING
+## 🚗 08 — AUTOMOTIVE TROUBLESHOOTING
 
 <div align="center">
 
@@ -337,7 +376,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 </div>
 
-## 📈 08 — PRODUCTIVITY TOOLS
+## 📊 09 — PRODUCTIVITY & OFFICE TOOLS
 
 <div align="center">
 
@@ -347,7 +386,11 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 </div>
 
+---
+
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=35&lines=DESIGN.+BUILD.+AUTOMATE.+INNOVATE.;FROM+LOW-LEVEL+CODE+TO+INTELLIGENT+MACHINES.;ENGINEER+THE+FUTURE+WITH+PRECISION." alt="Engineering Mindset"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,50:6D28D9,100:0891B2&height=120&section=footer&animation=twinkling" width="100%" alt="Engineering Footer"/>
 
@@ -355,7 +398,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 
 </div>
 
-<!-- ═══════════ END TECHNICAL ARSENAL ═══════════ -->
+<!-- ═══════════════════ END TECHNICAL ARSENAL ═══════════════════ --> 
 
 
 
