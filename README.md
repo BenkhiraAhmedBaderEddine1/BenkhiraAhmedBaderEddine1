@@ -277,7 +277,7 @@ https://igee.univ-boumerdes.dz/Presentation.html
 - **System Integration:** Combined embedded C++ programming, motor driver control, PWM actuation, sensor calibration, and controller tuning to develop a practical self-balancing robotic platform.
 
 - 
-####🧠  [LIE DETECTION AI — A Machine Learning-Based Voice Analysis System](https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main)
+#### 🧠  [LIE DETECTION AI — A Machine Learning-Based Voice Analysis System](https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main)
 
 
 Artificial Intelligence & Machine Learning: Developed a voice analysis system designed to explore machine learning techniques for detecting potential deception-related patterns in speech.
@@ -314,6 +314,30 @@ Analysis: Implemented numerical simulations and Vaccination Strategy Evaluation 
 - **Autonomous Systems:** Designed to support reliable optimization, adaptive control, anomaly detection, and decision-making in complex autonomous cyber-physical environments.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10172a"/>
+      <stop offset="100%" stop-color="#21113b"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#ff5da2"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="22" fill="url(#bg)"/>
+  <circle cx="80" cy="40" r="55" fill="#00e5ff" opacity=".08"/>
+  <circle cx="830" cy="180" r="85" fill="#ff5da2" opacity=".08"/>
+  <text x="450" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="600" fill="#d8e4ff">⚡ ENGINEERING PORTFOLIO</text>
+  <text x="450" y="137" text-anchor="middle" font-family="Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="4" fill="url(#text)">PROJECTS</text>
+  <path d="M290 160 H610" stroke="url(#text)" stroke-width="3" stroke-linecap="round"/>
+  <text x="450" y="192" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#b9c4dc">ROBOTICS • AI • EMBEDDED SYSTEMS • INNOVATION</text>
+</svg>
+
+
 
 ### 📊 Engineering Statistics
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkhiraAhmedBaderEddine1&show_icons=true&theme=tokyonight)
