@@ -226,33 +226,187 @@ My academic journey inspires me to explore the connection between theory and rea
 ----------------------------------------------
 -----------------------------------------------
 -----------------------------------------------
-### 🛡️ Professional Experience ( training and internships not payment work or job )  & Industrial Impact
 
-**CNC & Robotics Systems Operator** | *Industrial Fabrication Field* (2023 – 2024 intership** / one year training and learning ) 
-* **Digital Manufacturing:** Managed the end-to-end CAD/CAM pipeline, designing complex vectors in **CorelDRAW** and generating optimized **G-code** via **SheetCam**.
-* **Automated Production:** Programmed and operated **CNC Plasma cutting** and robotic engraving systems.
-* **Hardware Integrity:** Applied **Manual Metal Arc Welding (MMAW)** and structural assembly techniques to ensure mechanical durability in robotic frames.
 
-**Automotive Electronic & Diagnostic Technician** | *Certified Specialist* (2024 – Present)  ( application and theoretical )
-* **ECU Architecture:** Performing advanced diagnostics on automotive **Electronic Control Units (ECUs)** and sensor networks using professional-grade scanners.
-* **Embedded Troubleshooting:** Diagnosing and repairing intricate electrical-mechanical failures in modern vehicular systems.
-#### 📡 Telecommunications & Fiber Optics Field Internship
-**Entity:** Algérie Télécom | **Duration:** March 2026 – April 2026 | **Location:** ksar el boukhari,Medea, Algeria
 
-* **FTTH & GPON Architecture:** Explored the deployment of **Fiber-to-the-Home** technology and the integration of **Gigabit Passive Optical Networks**.
-* **Network Infrastructure:** Gained hands-on insight into **Optical Distribution Frames (ODF)**, patch panel organization, and high-density rack management.
-* **Physical Layer Maintenance:** Observed professional standards in **fiber optic splicing**, cable management, and signal routing within central office environments.
-* **System Reliability:** Studied the redundant power systems and cooling infrastructures required to maintain 24/7 network uptime.
+## 🛡️ PROFESSIONAL EXPERIENCE & INDUSTRIAL IMPACT
 
-#### 🏗️ Manual Metal Arc Welding (MMAW) Specialist
-**Field:** Industrial Fabrication | **Duration:** 2023 – Present  ( still training  ) | **Location:** Medea, Ksar El Boukhari
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050816,45:00F5FF,100:7B2CFF&text=INDUSTRIAL%20EXPERIENCE&fontColor=FFFFFF&fontSize=32&fontAlignY=50&animation=twinkling&stroke=00F5FF&strokeWidth=1" width="100%" alt="Industrial Experience Banner"/>
+</p>
 
-* **Hardware Integrity:** Expert application of **Manual Metal Arc Welding (MMAW)** and structural assembly techniques to ensure mechanical durability.
-* **Technical Design:** Proficient in **Technical Drawing Interpretation**, translating complex blueprints into physical structural components.
-* **Structural Assembly:** Managing the fit-up and alignment of heavy-duty industrial frames and mechanical parts.
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=From+Digital+Design+to+Physical+Manufacturing;Industrial+Automation+%7C+Robotics+%7C+Diagnostics;Telecommunications+%7C+Fiber+Optics+%7C+Welding;Learning+in+the+Field.+Building+for+the+Real+World." alt="Industrial Experience Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-TRAINING_&_INTERNSHIPS-00F5FF?style=for-the-badge&logo=academia&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FOCUS-INDUSTRIAL_SYSTEMS-7B2CFF?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APPROACH-HANDS--ON_LEARNING-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</p>
+
+> **Professional focus:** Bridging engineering theory with practical industrial environments through technical training, field internships, manufacturing workflows, diagnostics, and hands-on skill development.
+
+**Experience type:** Training, internships, and practical technical learning — not paid employment.
+
 ---
 
+### 🧭 EXPERIENCE AT A GLANCE
+
+| Period | Experience | Technical Domain |
+|:---|:---|:---|
+| **2023–2024** | CNC & Robotics Systems Operator — Training | Digital Manufacturing & Automation |
+| **2023–Present** | MMAW Welding — Ongoing Training | Industrial Fabrication |
+| **2024–Present** | Automotive Electronics & Diagnostics — Practical Application | Automotive Systems |
+| **Mar–Apr 2026** | Algérie Télécom — Field Internship | Telecommunications & Fiber Optics |
+
+---
+
+### ⚙️ 01 · CNC & ROBOTICS SYSTEMS OPERATOR
+
+<p>
+  <img src="https://img.shields.io/badge/DOMAIN-DIGITAL_MANUFACTURING-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PERIOD-2023--2024-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TYPE-TRAINING-00C853?style=flat-square"/>
+</p>
+
+**Field:** Industrial Fabrication & CNC Operations  
+**Duration:** One year of training and practical learning
+
+Developed practical experience with digital manufacturing workflows, CNC cutting equipment, robotic engraving, and mechanical fabrication processes.
+
+- **Digital Manufacturing:** Worked through the CAD/CAM workflow, creating vector designs in **CorelDRAW** and preparing cutting toolpaths and G-code using **SheetCam**.
+- **CNC Plasma Cutting:** Trained in the setup and operation of CNC plasma cutting equipment and the execution of programmed cutting tasks.
+- **Robotic Engraving:** Gained practical exposure to robotic engraving workflows and automated manufacturing operations.
+- **Mechanical Fabrication:** Applied **Manual Metal Arc Welding (MMAW)** techniques and structural assembly practices in fabrication tasks.
+- **Manufacturing Workflow:** Connected digital design, toolpath preparation, machine operation, and physical part fabrication.
+
+<p>
+  <img src="https://img.shields.io/badge/CorelDRAW-Vector_Design-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SheetCam-CAD%2FCAM-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CNC-Plasma_Cutting-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Robotics-Engraving-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MMAW-Welding-FFD700?style=flat-square"/>
+</p>
+
+---
+
+### 🚗 02 · AUTOMOTIVE ELECTRONICS & DIAGNOSTICS
+
+<p>
+  <img src="https://img.shields.io/badge/DOMAIN-AUTOMOTIVE_ELECTRONICS-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PERIOD-2024--PRESENT-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TYPE-PRACTICAL_LEARNING-00C853?style=flat-square"/>
+</p>
+
+**Field:** Automotive Electrical & Mechanical Systems  
+**Status:** Ongoing practical application and theoretical learning
+
+Exploring modern vehicle electronics and diagnostic methods through practical troubleshooting and the study of automotive electrical and mechanical systems.
+
+- **ECU Diagnostics:** Working with automotive Electronic Control Units (ECUs), diagnostic scanners, and vehicle electronic systems.
+- **Sensor Networks:** Studying sensor signals, electronic control behavior, and communication between vehicle subsystems.
+- **Fault Diagnosis:** Developing troubleshooting skills for electrical and electromechanical faults.
+- **Theory into Practice:** Applying automotive electrical principles to diagnostic procedures and system-level fault analysis.
+
+<p>
+  <img src="https://img.shields.io/badge/ECU-Electronic_Control-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Diagnostics-Fault_Analysis-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automotive-Sensor_Systems-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Electrical-Mechanical_Systems-00C853?style=flat-square"/>
+</p>
+
+---
+
+### 📡 03 · TELECOMMUNICATIONS & FIBER OPTICS FIELD INTERNSHIP
+
+<p>
+  <img src="https://img.shields.io/badge/ORGANIZATION-ALGÉRIE_TÉLÉCOM-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PERIOD-MAR--APR_2026-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TYPE-FIELD_INTERNSHIP-00C853?style=flat-square"/>
+</p>
+
+**Organization:** Algérie Télécom  
+**Location:** Ksar El Boukhari, Médéa, Algeria  
+**Duration:** March 2026 – April 2026
+
+Gained field exposure to telecommunications infrastructure, optical access networks, fiber-optic practices, and the supporting systems required for reliable network operations.
+
+- **FTTH & GPON Architecture:** Studied Fiber-to-the-Home deployment concepts and Gigabit Passive Optical Network architecture.
+- **Optical Distribution Infrastructure:** Explored Optical Distribution Frames (ODFs), patch-panel organization, and high-density equipment racks.
+- **Fiber-Optic Practices:** Observed fiber-optic splicing procedures, cable management, and optical signal routing in telecommunications environments.
+- **Central Office Infrastructure:** Learned about equipment-room organization and the role of supporting infrastructure in network operations.
+- **Power & Cooling Reliability:** Studied backup power arrangements and cooling systems that help maintain continuous telecommunications service.
+
+<p>
+  <img src="https://img.shields.io/badge/FTTH-Fiber_to_the_Home-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GPON-Optical_Access-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ODF-Fiber_Infrastructure-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Splicing-Optical_Fiber-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Infrastructure-Power_&_Cooling-FFD700?style=flat-square"/>
+</p>
+
+---
+
+### 🏗️ 04 · MANUAL METAL ARC WELDING (MMAW)
+
+<p>
+  <img src="https://img.shields.io/badge/DOMAIN-INDUSTRIAL_FABRICATION-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PERIOD-2023--PRESENT-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-ONGOING_TRAINING-00C853?style=flat-square"/>
+</p>
+
+**Field:** Industrial Fabrication  
+**Location:** Ksar El Boukhari, Médéa, Algeria  
+**Status:** Ongoing practical training
+
+Developing practical fabrication skills focused on welding, technical drawing interpretation, component alignment, and structural assembly.
+
+- **MMAW Welding:** Practicing Manual Metal Arc Welding techniques for joining metal components in fabrication tasks.
+- **Technical Drawing Interpretation:** Reading engineering drawings and translating dimensional and structural requirements into physical components.
+- **Fit-Up & Alignment:** Learning to position, align, and assemble metal parts and structural frames before and during fabrication.
+- **Structural Assembly:** Applying fabrication principles to mechanical frames and industrial components.
+- **Workshop Practice:** Developing awareness of fabrication quality, safe working procedures, and the importance of dimensional accuracy.
+
+<p>
+  <img src="https://img.shields.io/badge/MMAW-Arc_Welding-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Technical_Drawing-Blueprints-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Fabrication-Structural_Assembly-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Workshop-Fit--Up_&_Alignment-00C853?style=flat-square"/>
+</p>
+
+---
+
+### 🧰 INDUSTRIAL & TECHNICAL SKILLS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DIGITAL_MANUFACTURING-CAD%2FCAM-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNC_AUTOMATION-MACHINE_OPERATIONS-7B2CFF?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AUTOMOTIVE-ECU_DIAGNOSTICS-FF3CAC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TELECOM-FTTH_&_GPON-00C853?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FABRICATION-MMAW_WELDING-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ENGINEERING-TECHNICAL_DRAWINGS-FFD700?style=for-the-badge"/>
+</p>
+
+---
+
+### 🎯 WHAT THESE EXPERIENCES HAVE TAUGHT ME
+
+- **Systems Thinking:** Understanding how software, hardware, mechanical components, and infrastructure work together.
+- **Practical Problem-Solving:** Approaching technical tasks through observation, analysis, troubleshooting, and iterative learning.
+- **Digital-to-Physical Workflow:** Connecting CAD/CAM design and machine instructions to real manufacturing processes.
+- **Industrial Awareness:** Appreciating reliability, precision, maintenance, safety, and operational discipline.
+- **Continuous Improvement:** Building skills through hands-on practice and connecting academic engineering concepts to real-world applications.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2CFF,50:00F5FF,100:050816" width="100%" alt="Industrial Experience Footer"/>
+</p>
+
+<p align="center">
+  <b>⚡ LEARN IN THE FIELD · ENGINEER WITH PURPOSE · BUILD WITH PRECISION ⚡</b>
+</p>
 
 
  
