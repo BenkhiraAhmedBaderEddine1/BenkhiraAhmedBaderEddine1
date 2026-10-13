@@ -264,6 +264,16 @@ https://igee.univ-boumerdes.dz/Presentation.html
 - **Sensor Fusion:** Integrated the MPU6050 accelerometer and gyroscope with a complementary filter to estimate the robot's tilt angle.
 - **System Integration:** Combined embedded C++ programming, motor driver control, PWM actuation, sensor calibration, and controller tuning to develop a practical self-balancing robotic platform.
 
+🧠 LIE DETECTION AI — A Machine Learning-Based Voice Analysis System
+
+Artificial Intelligence & Machine Learning: Developed a voice analysis system designed to explore machine learning techniques for detecting potential deception-related patterns in speech.
+
+Voice Analysis: Analyzes vocal characteristics and speech-related features to identify patterns that may be associated with deceptive versus truthful speech.
+
+Predictive Modeling: Applies machine learning algorithms and audio feature extraction techniques to classify voice samples based on the model's training data.
+
+Intelligent Decision Support: Explores AI-driven speech analysis for research in behavioral signal processing, pattern recognition, and intelligent classification systems. 
+
 
 #### 📊 Epidemic Simulation (SIR Model in MATLAB) (https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB)
 Modeling: Computational framework for infectious disease dynamics utilizing Differential Equations to track Susceptible, Infected, and Recovered populations.
