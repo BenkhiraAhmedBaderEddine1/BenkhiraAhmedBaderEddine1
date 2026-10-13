@@ -8,9 +8,128 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Hello, I'm pedro 👋 
+<!-- ═══════════════════ FUTURISTIC PROFILE INTRO ═══════════════════ -->
 
-   I am a ** Master of Science in Computer Engineering  ** student at the **  Institute of Electrical and Electronic Engineering (IGEE) **. I am a Systems Engineer dedicated to bridging the gap between **Artificial Intelligence**, **Embedded Firmware**, and **Industrial Automation**. My expertise spans from high-level Machine Learning models to hands-on industrial robotics and automotive electronics.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,25:0B1535,55:312E81,80:075985,100:00F5FF&text=AHMED%20BADER%20EDDINE&fontColor=FFFFFF&fontSize=38&fontAlignY=42&animation=twinkling&stroke=00F5FF&strokeWidth=1" width="100%" alt="Ahmed Bader Eddine — Engineering and Technology"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=65&lines=Hello%2C+World!+I'm+Ahmed+Bader+Eddine;Master's+Student+in+Computer+Engineering;Electrical+%26+Electronic+Engineering+at+NCTO;AI+%7C+Robotics+%7C+Embedded+Systems;Industrial+Automation+%7C+Electronics+%7C+Innovation;Curious+About+Technology.+Driven+by+Engineering." alt="Animated Engineering Introduction"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACADEMIC_LEVEL-MASTER'S_STUDENT-00F5FF?style=for-the-badge&logo=academia&logoColor=black" alt="Master's Student"/>
+  <img src="https://img.shields.io/badge/FIELD-COMPUTER_ENGINEERING-7B2CFF?style=for-the-badge&logo=linux&logoColor=white" alt="Computer Engineering"/>
+  <img src="https://img.shields.io/badge/INTEREST-ALL_THINGS_TECH-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Technology Enthusiast"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-ARTIFICIAL_INTELLIGENCE-00F5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ROBOTICS-AUTONOMOUS_SYSTEMS-7B2CFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ELECTRONICS-EMBEDDED_SYSTEMS-FF3CAC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AUTOMATION-INDUSTRIAL_TECH-00C853?style=flat-square"/>
+</p>
+
+---
+
+## 👨‍🚀 WHO AM I?
+
+Hello! I'm **Ahmed Bader Eddine** — a **Master's student in Computer Engineering** with an academic background and interests spanning **Electrical and Electronic Engineering**, studying at **NCTO** in the field of Electrical and Electronic Engineering.
+
+I'm passionate about technology in all its forms — from computer architecture, software, and intelligent algorithms to electronic circuits, embedded devices, robotics, and industrial systems. I enjoy exploring how these technologies connect, interact, and evolve to solve real-world problems.
+
+My interests extend across **Artificial Intelligence, Machine Learning, Embedded Systems, Robotics, Control Engineering, Industrial Automation, Telecommunications, and Cyber-Physical Systems**. I love learning new technologies, experimenting with ideas, understanding how things work beneath the surface, and transforming theoretical concepts into practical projects.
+
+For me, engineering is more than a field of study. It's a way of thinking: questioning assumptions, analyzing complex systems, solving problems creatively, and continuously discovering new possibilities.
+
+I'm always open to exploring emerging technologies, learning across disciplines, collaborating on innovative ideas, and expanding my understanding of the digital and physical worlds.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=Computer+Engineering+Meets+Electrical+Engineering;From+Software+Logic+to+Electronic+Circuits;From+Intelligent+Algorithms+to+Autonomous+Machines;Always+Learning.+Always+Exploring.+Always+Building." alt="Interdisciplinary Engineering Animation"/>
+</p>
+
+---
+
+## 🧬 MY TECHNOLOGY UNIVERSE
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Artificial Intelligence</h3>
+      Machine learning, intelligent agents, data-driven models, computer vision, and AI-powered applications.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Computer Engineering</h3>
+      Programming, computer systems, embedded software, hardware–software integration, and system architecture.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Electrical & Electronic Engineering</h3>
+      Electronic circuits, electrical systems, power electronics, instrumentation, and control fundamentals.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Robotics & Embedded Systems</h3>
+      Microcontrollers, sensor integration, real-time control, autonomous behavior, and robotic platforms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 Industrial Automation</h3>
+      CNC technologies, industrial control, manufacturing workflows, automation concepts, and diagnostics.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Emerging Technologies</h3>
+      Cyber-physical systems, networking, telecommunications, intelligent automation, and new technological ideas.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 BEYOND MY ACADEMIC STUDIES
+
+My curiosity goes beyond the classroom. I enjoy exploring different areas of technology, discovering new tools, experimenting with hardware and software, and learning how engineering principles are applied in real industrial environments.
+
+- 🛠️ **Hands-on Engineering:** Building projects, testing ideas, and connecting theory with practical implementation.
+- 💡 **Technology Exploration:** Keeping an open mind toward emerging tools, innovative concepts, and interdisciplinary technologies.
+- 🤖 **Robotics & Intelligent Systems:** Exploring how machines sense, process information, make decisions, and interact with their environments.
+- ⚙️ **Industrial Technologies:** Learning about automation, electronics, manufacturing, diagnostics, and communication infrastructure.
+- 📚 **Continuous Learning:** Expanding my knowledge through technical study, experimentation, and independent research.
+- 🤝 **Collaboration & Innovation:** Staying open to meaningful collaborations, challenging problems, and opportunities to create useful technology.
+
+---
+
+## 🎯 MY ENGINEERING MINDSET
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-EXPLORE-0B1535?style=for-the-badge&labelColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/02-UNDERSTAND-0B1535?style=for-the-badge&labelColor=7B2CFF"/>
+  <img src="https://img.shields.io/badge/03-DESIGN-0B1535?style=for-the-badge&labelColor=FF3CAC"/>
+  <img src="https://img.shields.io/badge/04-BUILD-0B1535?style=for-the-badge&labelColor=00C853"/>
+  <img src="https://img.shields.io/badge/05-IMPROVE-0B1535?style=for-the-badge&labelColor=FF9D00"/>
+</p>
+
+> **My vision:** To grow into an interdisciplinary engineer who understands the connection between computation, electronics, intelligence, and the physical world — and uses that understanding to build innovative, practical, and reliable systems.
+
+I believe the future belongs to people who remain curious, learn continuously, and are willing to explore beyond the boundaries of a single discipline.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=45&lines=Think+Beyond+Boundaries.;Stay+Curious.+Embrace+Technology.;Connect+Ideas.+Build+Intelligent+Systems.;The+Journey+of+Innovation+Never+Ends." alt="Engineering Philosophy"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7B2CFF,100:FF3CAC" width="100%" alt="Neon Divider"/>
+</p>
+
+<p align="center">
+  <b>⚡ COMPUTER ENGINEERING · ELECTRONICS · AI · ROBOTICS · INNOVATION ⚡</b>
+</p>
+
+<p align="center">
+  <i>One curious mind. Multiple engineering disciplines. Endless possibilities.</i>
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
