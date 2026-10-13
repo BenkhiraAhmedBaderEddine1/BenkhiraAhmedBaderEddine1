@@ -462,12 +462,7 @@ My academic journey inspires me to explore the connection between theory and rea
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-ROBOTICS-00F5FF?style=for-the-badge&labelColor=080B16"/>
-<img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-A78BFA?style=for-the-badge&labelColor=080B16"/>
-<img src="https://img.shields.io/badge/03-EMBEDDED_SYSTEMS-FF4ECD?style=for-the-badge&labelColor=080B16"/>
-<img src="https://img.shields.io/badge/04-CYBERSECURITY-34D399?style=for-the-badge&labelColor=080B16"/>
 
-<br/><br/>
 
 **━━━━━━━━━━━ ⟡ INNOVATE BEYOND LIMITS ⟡ ━━━━━━━━━━━**
 
