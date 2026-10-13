@@ -232,7 +232,19 @@ https://igee.univ-boumerdes.dz/Presentation.html
 ### 📈 Productivity Tools
 > **Office Suite:** Microsoft Excel · Microsoft Word · Microsoft PowerPoint
 
-### 📂 Featured Engineering Portfolio or Projects 
+## 🚀 Featured Engineering Portfolio
+
+<div align="center">
+
+# 💻 PROJECTS
+
+<img src="https://img.shields.io/badge/ROBOTICS-00D9FF?style=for-the-badge&logo=arduino&logoColor=black" />
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9B59FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ENGINEERING-FF4B8B?style=for-the-badge&logo=probot&logoColor=white" />
+
+*Building intelligent systems. Turning ideas into reality.*
+
+</div>
 
 
 #### 🤖 [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car)
@@ -264,7 +276,9 @@ https://igee.univ-boumerdes.dz/Presentation.html
 - **Sensor Fusion:** Integrated the MPU6050 accelerometer and gyroscope with a complementary filter to estimate the robot's tilt angle.
 - **System Integration:** Combined embedded C++ programming, motor driver control, PWM actuation, sensor calibration, and controller tuning to develop a practical self-balancing robotic platform.
 
-🧠 LIE DETECTION AI — A Machine Learning-Based Voice Analysis System
+- 
+####🧠  [LIE DETECTION AI — A Machine Learning-Based Voice Analysis System](https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main)
+
 
 Artificial Intelligence & Machine Learning: Developed a voice analysis system designed to explore machine learning techniques for detecting potential deception-related patterns in speech.
 
