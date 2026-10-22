@@ -807,7 +807,7 @@ Developing practical fabrication skills focused on welding, technical drawing in
 | 01 | [Multi-Mode Autonomous Smart Robot Car](https://github.com/BenkhiraAhmedBaderEddine1/Multi-Mode-Autonomous-Smart-Robot-Car) | Robotics | Arduino, Bluetooth, Ultrasonic, IR |
 | 02 | [RFID-Based Secure Access Control](https://github.com/BenkhiraAhmedBaderEddine1/Arduino-RFID-Door-Lock-System) | Embedded Security | RFID, MFRC522, Servo |
 | 03 | [House Price Prediction](https://github.com/BenkhiraAhmedBaderEddine1/house-price-prediction-linear-regression) | Machine Learning | Python, Linear Regression |
-| 04 | [Full-Wave Bridge Rectifier PCB](https://github.com/BenkhiraAhmedBaderEddine1/Power-Electronics-PCB) | Power Electronics | Rectification, R-L Load, PCB |
+| 04 | [Full-Wave Bridge Rectifier PCB](https://github.com/BenkhiraAhmedBaderEddine1/Full-Wave-Bridge-Rectifier-PCB/tree/main) | Power Electronics | Rectification, R-L Load, PCB |
 | 05 | [Two-Wheeled Self-Balancing Robot](https://github.com/BenkhiraAhmedBaderEddine1/A-two-wheeled-self-balancing-robot-with-an-Arduino) | Robotics & Control | Arduino, MPU6050, PID |
 | 06 | [LIE DETECTION AI](https://github.com/BenkhiraAhmedBaderEddine1/LIE-DETECTION-AI/tree/main) | AI & Audio Analysis | Machine Learning, Audio Features |
 | 07 | [Epidemic Simulation — SIR Model](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB) | Mathematical Modeling | MATLAB, Differential Equations |
