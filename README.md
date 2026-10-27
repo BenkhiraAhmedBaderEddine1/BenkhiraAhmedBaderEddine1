@@ -812,7 +812,7 @@ Developing practical fabrication skills focused on welding, technical drawing in
 | 08 | [SENTINEL-X](https://github.com/BenkhiraAhmedBaderEddine1/-SENTINEL-X) | Cybersecurity & AI | Digital Forensics, Autonomous Agents |
 | 09 | [RAVEN-X](https://github.com/BenkhiraAhmedBaderEddine1/RAVEN-X-Self-Verifying-Self-Healing-Cyber-Physical-Robot-) | Cyber-Physical Robotics | Self-Diagnosis, Fault Analysis |
 | 10 | [PHYSIOPT-X](https://github.com/BenkhiraAhmedBaderEddine1/-PHYSIOPT-X) | Optimization & Control | Physics-Aware Models, Verification |
-
+| 11 | [VISION-X-AI](https://github.com/BenkhiraAhmedBaderEddine1/VISION-X-AI) | Computer Vision & AI | Multimodal Perception, Real-Time AI, Human & Object Detection |
 ---
 
 ### 🤖 01 · MULTI-MODE AUTONOMOUS SMART ROBOT CAR
