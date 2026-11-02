@@ -1019,6 +1019,7 @@ A computational study of infectious-disease dynamics using the **Susceptible–I
 
 ## 🧩 ENGINEERING DOMAINS
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/01-ROBOTICS-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/02-EMBEDDED_SYSTEMS-7B2CFF?style=for-the-badge"/>
@@ -1030,6 +1031,7 @@ A computational study of infectious-disease dynamics using the **Susceptible–I
 </p>
 
 My projects reflect an interdisciplinary engineering approach: connecting **software, electronics, physical systems, mathematical models, and intelligent decision-making** to explore practical solutions to complex problems.
+
 
 ---
 
@@ -1052,7 +1054,9 @@ My projects reflect an interdisciplinary engineering approach: connecting **soft
 
 
 ### 📊 Engineering Statistics
+
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenkhiraAhmedBaderEddine1&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenkhiraAhmedBaderEddine1&layout=compact&theme=tokyonight)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
