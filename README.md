@@ -1054,7 +1054,6 @@ My projects reflect an interdisciplinary engineering approach: connecting **soft
 
 ## 📊 Engineering Statistics
 
-
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=BenkhiraAhmedBaderEddine1&show_icons=true&theme=tokyonight&hide_border=true"
